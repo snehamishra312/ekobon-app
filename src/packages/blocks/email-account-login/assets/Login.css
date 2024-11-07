@@ -1,0 +1,295 @@
+.idv-login-modal .ant-modal-header {
+  border-bottom: 0px !important;
+  padding: 16px 24px 0px !important;
+}
+
+.idv-login-modal .ant-modal-header .ant-modal-title {
+  font-weight: 600;
+  font-size: 15px;
+}
+.idv-login-modal .ant-modal-content {
+  border-radius: 12px;
+  padding: 0;
+}
+
+.login-indv-form-up-txt p {
+  margin-bottom: 0px;
+}
+.business-sign-in-ns {
+  color: #88ae47 !important;
+  padding-left: 5px;
+  background: none;
+  outline: none;
+  border: none;
+}
+.idv-login-modal
+  .ant-modal-content
+  .ant-modal-body
+  .ant-row
+  .ant-col
+  .idv-login-modal-content
+  .title {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: -10px;
+  margin-bottom: 12px;
+}
+.idv-login-modal .ant-modal-content .ant-modal-close-x .anticon {
+  color: #000000;
+}
+.login-indv-form-up-txt p a {
+  color: #88ae47 !important;
+  padding-left: 5px;
+}
+.indivibusinessModal {
+  height: 100%;
+  margin: 0px !important;
+  padding-top: 45px;
+}
+.indivibusinessModal img {
+  height: 100% !important;
+}
+.ant-statistic {
+  text-align: center;
+}
+.login-indv-form input,
+.login-indv-form .ant-input-password {
+  border-radius: 8px;
+}
+.login-indv-form .inv-create-pass {
+  padding: 40px 0;
+}
+.indv-login-form-btn-sec {
+  justify-content: space-between;
+  align-items: center;
+}
+.indv-login-form-btn-sec .ant-row .ind-web-span a {
+  color: #88ae47;
+  font-weight: 500;
+}
+.indv-login-form-btn-sec .ant-row .ind-web-span-lft a {
+  color: #88ae47;
+  font-weight: 500;
+  padding-left: 8px;
+}
+.ind-web-span-lft {
+  padding-left: 22px;
+}
+.carbon-idv-signin-btn {
+  background-color: #88ae47 !important;
+  padding: 0px 56px !important;
+  border-radius: 6px !important;
+  color: #fff !important;
+  height: 48px !important;
+}
+
+.carbon-idv-signin-social-sec hr {
+  width: 36%;
+}
+
+.carbon-idv-signin-social-sec span {
+  font-size: 12px;
+}
+
+.idv-login-g-btn button {
+  background-color: #ffffff;
+  color: #eb3e37;
+  border: none;
+  width: 100%;
+  -webkit-box-shadow: 0px 0px 19px -9px rgba(0, 0, 0, 0.86);
+  -moz-box-shadow: 0px 0px 19px -9px rgba(0, 0, 0, 0.86);
+  box-shadow: 0px 0px 19px -9px rgba(0, 0, 0, 0.86);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 48px;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+.idv-login-f-btn button {
+  background-color: #ffffff;
+  border: none;
+  color: #39507e;
+  width: 100%;
+  -webkit-box-shadow: 0px 0px 19px -9px rgba(0, 0, 0, 0.86);
+  -moz-box-shadow: 0px 0px 19px -9px rgba(0, 0, 0, 0.86);
+  box-shadow: 0px 0px 19px -9px rgba(0, 0, 0, 0.86);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 48px;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+.indv-auth-img img {
+  width: 100%;
+  border-radius: 10px;
+  height: 485px;
+}
+.idv-login img {
+  width: 100%;
+  border-radius: 10px;
+  height: 475px;
+}
+.idv-login-page img {
+  width: 100%;
+  border-radius: 10px;
+  height: 445px;
+}
+.indv-auth-create-pass img {
+  width: 100%;
+  border-radius: 10px;
+  height: 430px;
+}
+.otp_expired_msg {
+  color: red;
+  display: flex;
+  justify-content: center;
+}
+.indi_bus_Modal {
+  top: 65px !important;
+}
+.indi_bus_Modal .login-indv-form-up-txt {
+  margin-bottom: 1rem;
+}
+.indi_bus_Modal .idv-login-modal-content .indi_bus_form p {
+  margin-bottom: 10px;
+}
+.indi_bus_Modal .idv-login-modal-content .indi_bus_form .ant-form-item {
+  margin-bottom: 12px;
+}
+@media screen and (max-width: 600px) {
+  .fix-display {
+    display: flex;
+    white-space: nowrap;
+    flex-wrap: wrap;
+  }
+  .carbon-idv-signin-social-sec span {
+    font-size: 12px;
+    white-space: nowrap;
+    padding: 0px 10px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1000px) {
+  .indv-auth-img img {
+    height: auto;
+    margin-top: 20px;
+  }
+  .idv-login-g-btn button {
+    width: 150px;
+  }
+  .idv-login-f-btn button {
+    width: 150px;
+  }
+  .login-indv-form .inv-create-pass {
+    padding: 40px 0;
+  }
+  .idv-login-g-btn .fa-brands {
+    padding-left: 10px;
+  }
+  .idv-login-f-btn .fa-brands {
+    padding-left: 10px;
+  }
+}
+@media screen and (min-width: 425px) and (max-width: 769px) {
+  .indv-auth-img img {
+    height: auto;
+    margin-top: 20px;
+  }
+  .idv-login-g-btn .g_btn {
+    width: 150px;
+    padding: 0 30px;
+  }
+  .idv-login-f-btn .f_btn {
+    width: 150px;
+    padding: 0 30px;
+  }
+  .login-indv-form .inv-create-pass {
+    padding: 40px 0;
+  }
+  .idv-login img {
+    height: auto;
+  }
+  .idv-login-g-btn .fa-brands {
+    padding-left: 10px;
+  }
+  .idv-login-f-btn .fa-brands {
+    padding-left: 10px;
+  }
+}
+@media screen and (min-width: 370px) and (max-width: 670px) {
+  .idv-login-g-btn .g_btn {
+    width: 150px;
+    padding: 0 30px;
+  }
+  .idv-login-f-btn .f_btn {
+    width: 150px;
+    padding: 0 30px;
+  }
+  .idv-login-g-btn .fa-brands {
+    padding-left: 10px;
+  }
+  .idv-login-f-btn .fa-brands {
+    padding-left: 10px;
+  }
+
+}
+
+.carbon-offset-onetime-life-card-img img{
+  object-fit: cover;
+}
+@media screen and (max-width:768px){
+  .one-time-offset-sec .ant-row {
+    flex-flow: row wrap;
+    display: block !important;
+    width: 100% !important;
+}
+  .ct_img_full_w_res{
+    display: block  !important;
+  
+  }
+  .indv-offset-order-summay {
+    margin-top: 30px;
+}
+
+}
+@media screen and (max-width:767px){
+  .ct_social_icon_g.mt-3 {
+    justify-content: center;
+}
+.ct_img_full_width{
+  width: 100%;
+}
+.ct_img_full_width img{
+  object-fit: cover;
+}
+.ct_img_full_w_res > .ant-col {
+  width: 100%!important;
+}
+}
+@media screen and (max-width:576px){
+  .ct_social_icon_g {
+  flex-flow: row;
+}
+.ct_social_icon_g .ant-col{
+  width: auto;
+}
+}
+
+@media screen and (max-width:375px){
+  .ct_social_icon_g {
+  flex-flow: row;
+}
+.ct_social_icon_g .ant-col{
+  width: 100% !important;
+  margin-bottom: 10px;
+  padding-right: 12px  !important;
+}
+ .ct_social_icon_g button{
+   justify-content: center;
+   gap: 10px;
+   width: 100% !important;
+ }
+}

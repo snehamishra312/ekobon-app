@@ -1,0 +1,17 @@
+export const packageMaintenance = require("../../../assets/packageMaintenance.png");
+export const driving1 = require("./assests/driving1.png");
+export const driving2 = require("./assests/driving2.png");
+export const driving3 = require("./assests/driving3.png");
+export const driving4 = require("./assests/driving4.png");
+export const driving5 = require("./assests/driving5.png");
+export const fligh1 = require("./assests/fligh1.png");
+export const fligh2 = require("./assests/flight2.png");
+export const fligh3 = require("./assests/flight3.png");
+export const events1 = require("./assests/events1.png");
+export const events2 = require("./assests/events2.png");
+export const events3 = require("./assests/events3.png");
+export const employee1 = require("./assests/employee1.png");
+export const employee2 = require("./assests/employee2.png");
+export const employee3 = require("./assests/employee3.png");
+export const employee4 = require("./assests/employee4.png");
+export const employee5 = require("./assests/employee5.png");

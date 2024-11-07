@@ -1,0 +1,112 @@
+.sideArrow {
+  margin: 75px 0;
+}
+/* .sideArrow img {
+  width: 100%;
+} */
+
+.sideArrowDown {
+  text-align: center;
+}
+/* .sideArrowDown img {
+  transform: rotate(90deg);
+  width: 165px;
+  margin: 62px auto;
+} */
+
+.bgImg {
+  width: 40px;
+  height: 40px;
+  background: #86af48;
+  border-radius: 5px;
+  line-height: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.carbon-climate-chng-sec {
+  background: url("https://minio.b120578.dev.eastus.az.svc.builder.cafe/sbucket/variants/dv6tkvxzi5k5tmkhx0iey048ysge/6f7daa6c86a9bc2c53f5d0684447f253adfa8f13401d95f9d66464245ed9ff2e?response-content-disposition=inline%3B%20filename%3D%22approch_climate_change.jpg%22%3B%20filename%2A%3DUTF-8%27%27approch_climate_change.jpg&response-content-type=image%2Fjpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.carbon-climate-inner-part-sec .head {
+  font-size: 24px !important;
+}
+.carbon-climate-inner-part-sec .head span {
+  font-weight: 700;
+  padding-left: 8px;
+}
+.tackle-climate-change-part .details_para {
+  font-weight: 500;
+  color: #a0a0a0;
+}
+.appoach_img_sec img {
+  padding-bottom: 20px;
+}
+.approach-us-end-sec-block1 {
+  border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), #848484) 1 100%;
+  border-right-style: solid;
+  border-width: 2px;
+}
+.approach-us-end-sec-block2 {
+  border-image: linear-gradient(to left, #848484, rgba(0, 0, 0, 0)) 1 / 1 / 0
+    stretch;
+  border-top: 2px solid;
+}
+.approach-us-end-sec-block3 {
+  border-image: linear-gradient(to right, #848484, rgba(0, 0, 0, 0)) 1 / 1 / 0
+    stretch;
+  border-bottom: 2px solid;
+}
+.approach-us-end-sec-block4 {
+  border-image: linear-gradient(#848484, rgba(0, 0, 0, 0)) 1 100% / 1 / 0
+    stretch;
+  border-left-width: 2px;
+  border-left-style: solid;
+  margin-left: -1px;
+}
+.approach-us-end-sec-block-text {
+  display: flex;
+  align-items: flex-end;
+}
+.appoach_img_sec {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  height: 100%;
+}
+.appoach_img_sec img {
+  padding: 0px;
+}
+@media screen and (max-width: 576px) {
+  .appoach_img_sec {
+    display: flex;
+    gap: 13px;
+    align-items: center;
+  }
+  .approach-us-end-sec {
+    margin-bottom: 23px;
+  }
+  .appoach_img_sec img {
+    padding-bottom: 0px;
+  }
+  .transparency-at-our-code-sec-block,
+  .transparency-at-our-code-sec-block2,
+  .transparency-at-our-code-sec-block3,
+  .transparency-at-our-code-sec-block4 {
+    padding: 0px 7px;
+    height: 55px;
+  }
+  .transparency-at-our-code-sec-block p,
+  .transparency-at-our-code-sec-block2 p,
+  .transparency-at-our-code-sec-block3 p,
+  .transparency-at-our-code-sec-block4 p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #151515;
+    margin-bottom: 0;
+  }
+  .approach-us-end-sec-block1,
+  .approach-us-end-sec-block2 {
+    margin-bottom: 0px !important;
+  }
+}

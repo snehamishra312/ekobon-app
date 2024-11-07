@@ -1,0 +1,219 @@
+/* **************.Logo Container css******************** */
+
+.indv-logo-head img {
+  width: 116.7px !important;
+  cursor: pointer !important;
+}
+.ant-table-pagination.ant-pagination {
+  display: none;
+}
+.class-pag {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 15px;
+}
+.class-pag-order {
+  padding-right: 18px;
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 15px;
+}
+.ns-page-desktop {
+  padding: 15px 0px 15px 0px;
+}
+.order_date {
+  padding-left: 15px;
+  width: 100%;
+  height: 22px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 22px;
+  display: flex;
+  /* align-items: center; */
+  color: #90a0b7;
+}
+.plantTreeClose {
+  color: #ffff;
+  font-size: 20px;
+  cursor: pointer;
+  float: right;
+}
+.selected {
+  font-weight: bolder;
+  margin: 0px 12px !important;
+  padding: 0px 8px !important;
+  border: 1px solid var(--color-individual) !important;
+}
+.next .disabled .previous .disabled {
+  color: black;
+}
+/* .previous {
+  color: var(--color-individual) !important;
+} */
+.break {
+  border: none !important;
+}
+/* **************.NavLeftContainer css******************** */
+
+.NavLeftContainer {
+  display: flex;
+}
+
+.NavFaq {
+  cursor: pointer;
+  color: var(--color-dark-grey);
+  padding: 0px 14px 0px 0px;
+  border-right: 2px solid var(--color-gray);
+}
+
+.LogiNavFaqnBtn {
+  cursor: pointer;
+  color: var(--color-dark-grey);
+}
+.CartImage {
+  cursor: pointer;
+  width: 50px;
+  height: 25px;
+  border-radius: 50%;
+  padding: 0px 10px 0px 14px;
+}
+.CartImage_cart {
+  cursor: pointer;
+  width: 50px;
+  height: 25px;
+  padding: 0px 10px 0px 14px;
+}
+.icon {
+  width: 200px;
+  height: 200px;
+}
+.NavLeftContainer-avtar {
+  display: flex;
+  align-items: center;
+}
+
+.NavLeftContainer-sec1 {
+  display: flex;
+  align-items: center;
+}
+
+.NavLeftContainer-sec1 p,
+.NavLeftContainer-avtar p {
+  margin-bottom: 0 !important;
+}
+
+.NavLeftContainer-avtar .indv-dash-nav-dropdown {
+  color: #808080 !important;
+  align-items: center;
+  display: flex;
+}
+.NavLeftContainer-avtar .ant-dropdown-trigger > .anticon.anticon-down,
+.ant-dropdown-link > .anticon.anticon-down,
+.ant-dropdown-button > .anticon.anticon-down {
+  padding-left: 4px;
+}
+.indv-dash-nav-dropdown-text {
+  padding: 16px 56px 16px 14px !important;
+  border-radius: 12px !important;
+}
+
+.indv-dash-nav-dropdown-text .ant-dropdown-menu-item:hover {
+  background-color: unset !important;
+  color: #88ae47 !important;
+}
+.item_cart_main {
+  position: relative;
+}
+.item_cart {
+  position: absolute;
+  top: -7px;
+  right: -3px;
+  color: #fff;
+  font-weight: 700;
+  background: red;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.indv-member-since {
+  margin-right: 0rem;
+}
+
+.indv-member-since p {
+  font-size: 15px;
+  font-weight: 500;
+  color: #88ae47;
+}
+.indv-member-since p span {
+  color: rgb(124, 129, 136);
+  font-weight: 400;
+  padding-left: 8px;
+}
+@media screen and (min-width: 370px) and (max-width: 670px) {
+  .indv-member-since {
+    margin-right: 0rem;
+  }
+
+  .indv-member-since p span {
+    display: inline-block;
+  }
+  .ns-font {
+    font-size: 9px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1366px) {
+  .indv-member-since {
+    margin-right: 2rem;
+  }
+
+  .indv-member-since p span {
+    display: inline-block;
+  }
+}
+@media screen and (max-width: 576px) {
+  .nav-container-texts p {
+    font-size: 11px !important;
+  }
+  .indv-member-since {
+    margin-left: 7px !important;
+  }
+  .indv-member-since p {
+    font-size: 13px;
+  }
+  .indv-logo-head img {
+    width: 75px !important;
+  }
+  .NavLeftContainer-avtar {
+    width: 38%;
+  }
+  .NavLeftContainer-sec1 {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+  }
+  .indv-dash-nav-dropdown {
+    font-size: 12px;
+  }
+  .indv-member-since p span {
+    padding-left: 1px;
+  }
+}
+@media (min-width: 768px) {
+  .indv-member-since-ns {
+    margin-right: 1rem !important;
+  }
+}
+
+@media screen and (max-width:370px){
+  .indv-member-since p {
+  
+    margin-right: 15px;
+}
+}

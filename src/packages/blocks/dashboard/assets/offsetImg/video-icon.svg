@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arcticons:screenrecorder</title>
+    <g id="Extra-screens-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-13-Copy-2" transform="translate(-175.000000, -168.000000)">
+            <g id="Group-12" transform="translate(121.000000, 40.000000)">
+                <g id="Group-11" transform="translate(0.000000, 100.000000)">
+                    <g id="Group-9" transform="translate(26.000000, 0.000000)">
+                        <g id="arcticons:screenrecorder" transform="translate(28.000000, 28.000000)">
+                            <rect id="ViewBox" x="0" y="0" width="48" height="48"></rect>
+                            <rect id="Rectangle" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="4.5" y="11.44" width="28.3" height="25.12" rx="2.49"></rect>
+                            <path d="M32.8,27.71 L41.12,35.08 C41.5424009,35.45547 42.1463113,35.5469434 42.6609576,35.3134065 C43.1756038,35.0798695 43.5044295,34.5651377 43.5000442,34 L43.5000442,14 C43.5004606,13.4366753 43.1701551,12.9255671 42.6563662,12.694578 C42.1425774,12.4635889 41.5410482,12.555763 41.12,12.93 L32.8,20.29" id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

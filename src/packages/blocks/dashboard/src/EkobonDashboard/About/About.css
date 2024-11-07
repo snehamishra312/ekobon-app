@@ -1,0 +1,34 @@
+/* about new css start */
+.ct_team_card_img img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 100px;
+  margin: auto;
+  display: block;
+}
+.ct_team_card figcaption {
+  text-align: center;
+  margin-top: 15px;
+}
+.ct_team_card figcaption h4 {
+  color: #86af48;
+  margin-bottom: 0px;
+  line-height: 28px;
+}
+.ct_sectors_block img {
+  object-fit: cover;
+  width: 100%;
+  border-radius: 10px;
+  margin: auto;
+  display: block;
+  height: 200px;
+}
+.ct_sectors_block figcaption {
+  text-align: center;
+  margin-top: 15px;
+}
+.theme-dark .ct_our_mission_dark1 {
+  background-color: #333 !important;
+}
+/* about new design end */

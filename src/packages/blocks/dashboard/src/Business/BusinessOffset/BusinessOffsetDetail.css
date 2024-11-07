@@ -1,0 +1,309 @@
+.business-detail-offset-wrapper {
+  margin: 20px 0 0 0;
+  background-color: #fafafa;
+}
+.business-detail-offset-wrapper .ant-row .ant-col {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.modal-text-business {
+  color: red !important;
+  text-align: center !important;
+}
+.business-add-to-cart-mobile .ant-col {
+  display: flex !important;
+  justify-content: center !important;
+}
+.close_business {
+  font-size: 20px;
+  cursor: pointer;
+  color: black;
+  padding-left: 10px;
+  margin-left: 235px;
+}
+
+.modal-content_business {
+  background-color: #fefefe;
+  margin: 15% auto;
+  border: 1px solid #888;
+  width: 280px;
+  color: red;
+  padding: 10px;
+}
+.business-image-card {
+  background-image: linear-gradient(
+      rgb(201 201 201 / 50%),
+      rgba(201 201 201 / 50%)
+    ),
+    url("https://minio.b120578.dev.eastus.az.svc.builder.cafe/sbucket/variants/5rr9mxo7wo3a2pf6led5hf9bcg4v/30a8939e34acb69f052e9278395e207493735bdc7e497315ba17642b4deb2d33?response-content-disposition=inline%3B%20filename%3D%22greenfield.jpg%22%3B%20filename%2A%3DUTF-8%27%27greenfield.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=hello%2F20220719%2Fbuilder-1%2Fs3%2Faws4_request&X-Amz-Date=20220719T055841Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=928c2d16e664ca98393e7c93f6248f06b7a5291b2912843998fe815571bc8be8");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 389px;
+  width: 100%;
+}
+.business-image-card img {
+  width: 100%;
+}
+.business-card-detail {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  padding: 25px 24px;
+}
+.business-card-detail h3,
+.business-card-detail h5 {
+  color: #000;
+  text-align: left;
+}
+.business-card-detail h3 {
+  font-weight: 600;
+  margin-bottom: 30px;
+  font-size: 24px;
+}
+.title-business-head {
+  text-align: center;
+  margin-bottom: 30px;
+  padding: 0px 100px;
+}
+.title-business-head h3 {
+  font-weight: 600;
+}
+.title-business-head h3 span {
+  color: #88ae47;
+}
+.footprint-text {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.footprint-bold-text {
+  margin-left: 18px !important;
+}
+
+.footprint-bold-text p {
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 60px;
+  color: #abd06a;
+  background: -webkit-linear-gradient(#88ae47, #eee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.ct_color_change {
+  background-color: transparent !important;
+  color: #333 !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  padding: 16px 32px !important;
+}
+.footprint-bold-text-for3 {
+  margin-left: 10px !important;
+}
+
+.footprint-bold-text-for3 p {
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 60px;
+  color: #abd06a;
+  background: -webkit-linear-gradient(#88ae47, #eee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.footprint-light-text p {
+  font-size: 16px;
+  margin: 0 16px;
+}
+
+.footprint-light-text-for3 p {
+  font-size: 16px;
+  margin: 0 10px;
+}
+
+.carsousal-items-footprint {
+  text-align: center;
+  padding: 20px;
+}
+
+.carousel-footprint-wrapper button {
+  background: none;
+  border: 0px;
+  color: #333 !important;
+  box-shadow: none;
+  font-size: 18px;
+}
+.carousel-footprint-wrapper button:hover,
+.carousel-footprint-wrapper button:focus {
+  background-color: #fff !important;
+  background: none;
+}
+
+.footprint-image-icon {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  border-radius: 50%;
+  margin: auto;
+  background: #88ae47;
+  margin-bottom: 20px;
+}
+.footprint_list_number {
+  margin-left: 24px;
+}
+.footprint_list_content {
+  margin-left: 16px;
+  margin-right: 16px;
+  margin-top: 21px;
+}
+.carsousal-items-footprint h4 {
+  font-size: 20px;
+  font-weight: 600;
+}
+.business-left-side-pera p {
+  font-size: 15px;
+  margin-bottom: 8px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+}
+.business-detail-head {
+  font-size: 27px;
+  line-height: 35px;
+  font-weight: 600;
+}
+.business-detail-leftside {
+  padding: 20px;
+}
+
+.investment-grow-section {
+  background: #88ae47 !important;
+  color: #fff !important;
+  text-align: center !important;
+  padding: 50px !important;
+}
+
+.investment-grow-heads h4 {
+  color: #fff;
+  margin-bottom: 5px;
+}
+.investment-grow-heads h3 {
+  color: #fff;
+  margin-bottom: 50px;
+}
+.circleSection-grow {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.circle-grow {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin: 20px auto;
+  background: #fff;
+  line-height: 100px;
+}
+.circle-grow img {
+  height: 50px;
+}
+.note-css {
+  font-size: 16px;
+}
+
+.buss-offset-empfoot-sec {
+  background: none !important;
+}
+
+.subscription_btn {
+  display: flex;
+  justify-content: right;
+}
+.ant-row.ct_grid_2 {
+  display: grid !important;
+  grid-template-columns: auto auto !important;
+  align-items: flex-start !important;
+}
+@media (max-width: 768px) {
+  .subscription_btn {
+    display: flex;
+    justify-content: center;
+  }
+  .flight-mobile .ant-row {
+    justify-content: center !important;
+  }
+}
+.ct_item_align_start {
+  justify-content: start !important;
+  align-items: start !important;
+}
+.ct_wrape_container{
+  white-space: nowrap;
+}
+
+.m-b-50 {
+  margin-bottom: -50px !important;
+}
+/* --------------Mobile Responsive Start css by Shlok */
+@media (min-width: 768px) and (max-width: 1366px) {
+  .footprint-light-text p {
+    font-size: 14px;
+  }
+  .footprint-light-text-for3 p {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 360px) and (max-width: 670px) {
+  .title-business-head {
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 0px 100px;
+  }
+  .footprint_list_content {
+    margin-left: 38px;
+    margin-right: 16px;
+    margin-top: 21px;
+  }
+  .title-business-head {
+    padding: 0px 20px;
+  }
+  .business-left-side-pera p {
+    margin-bottom: 30px;
+  }
+  .buss-offset-empfoot-sec {
+    text-align: center;
+  }
+  .business-detail-head {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+@media screen and (min-width: 360px) and (max-width: 576px) {
+  .business-offset-title {
+    padding: 0px 20px !important;
+  }
+  .tool-section-number {
+    margin-left: 15px !important;
+  }
+  .tool-section-text {
+    text-align: justify;
+  }
+  .business-left-side-pera {
+    text-align: justify;
+  }
+  .order-summary-header {
+    text-align: center;
+  }
+  .ns-order-summary-header {
+    font-size: 22px;
+  }
+  .indv-offset-order-summay {
+    /* background-color: red; */
+  }
+  .ct_mt_70 {
+    margin-top: 65px !important;
+  }
+}

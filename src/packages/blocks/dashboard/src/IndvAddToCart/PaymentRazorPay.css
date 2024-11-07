@@ -1,0 +1,11 @@
+.razorpay-container iframe {
+  pointer-events: all !important;
+}
+.drLbWb {
+  box-shadow: #ff4d4f 0px 0px 0px 1px !important;
+}
+.gibgo {
+  color: #ff4d4f !important;
+  font-size: 14px !important;
+  margin-top: 0.25rem !important;
+}

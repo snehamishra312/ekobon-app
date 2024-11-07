@@ -1,0 +1,151 @@
+.carbon_footer_bar {
+  background-color: #252525 !important;
+  min-height: 200px;
+  border-bottom: solid 1px #252525;
+}
+
+.carbon_footer_bar .container {
+  padding-top: 40px;
+}
+
+nav {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  color: #000000;
+  position: relative;
+  z-index: 99;
+  min-height: 72px;
+}
+
+.fas {
+  cursor: pointer;
+}
+
+.logo {
+  font-weight: 600;
+  font-size: 25px;
+  color: tomato;
+}
+
+.logo font {
+  color: #fff;
+}
+
+.footer-nav-sec ul {
+  padding: 0;
+}
+
+.footer-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.footer-list li a {
+  text-decoration: none;
+  color: #ffff;
+  font-weight: 500;
+}
+.footer_hr {
+  border-top: 1px solid #7d7c81;
+  margin-top: 40px;
+}
+.footer_ul_icons {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+.footer_icons {
+  display: flex;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  justify-content: space-between;
+}
+.footer_icons .logo img {
+  width: 110px;
+}
+.footer_icons h4 {
+  color: #828186;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+}
+
+.footer_ul_icons {
+  padding-left: 0;
+}
+
+.footer_ul_icons li {
+  padding: 5px 10px;
+  margin-left: 5px;
+}
+.footer_ul_icons li img {
+  width: 25px;
+  cursor: pointer;
+}
+.footer_ul_icons li .fb_icon {
+  width: 12px;
+}
+
+.footer_icons_text {
+  display: flex;
+  text-align: center;
+}
+@media screen and (max-width: 800px) {
+  .logo {
+    font-size: 20px;
+  }
+  .footer-list li a {
+    font-size: 14px;
+    margin-left: 10px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .footer-list {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .footer-list li {
+    margin-bottom: 20px;
+  }
+
+  .footer-list li:last-child {
+    margin-bottom: 0px;
+  }
+
+  .footer_icons {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footer_icons .logo {
+    display: flex;
+    justify-content: center;
+  }
+
+  .footer_icons_text {
+    display: flex;
+    justify-content: center;
+    margin: 25px 0;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  .footer_ul_icons {
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+  }
+}
+
+.carbon-navbar .logo img {
+  width: 155px;
+}
+.project_footer {
+  color: #fff;
+}

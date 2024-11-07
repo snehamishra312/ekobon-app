@@ -1,0 +1,325 @@
+.Bussiness_project_distribution {
+  /* width: 50%; */
+  height: 94%;
+  box-shadow: 0px 0px 16px -3px rgb(0 0 0 / 51%);
+  border-radius: 12px;
+  margin-top: 22px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.one_more {
+  display: block;
+}
+.dashboard-popup-container-ns {
+  background: #ffffff;
+  border: 1px solid #efefef;
+  border-radius: 20px;
+  position: absolute;
+  padding: 10px 20px;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  width: 90%;
+  top: 70%;
+  /* left: 50%; */
+  z-index: 1;
+}
+
+.ct_offset_minus_top.offset-header-cards{
+    margin-left: -16px;
+    margin-right: -16px;
+    margin-top: -30px !important;
+    margin-bottom: 40px !important;
+    text-align: center;
+}
+@media (max-width: 1200px) {
+  .dashboard-popup-container-ns {
+    width: 95%;
+    top: 70%;
+    left: 2%;
+  }
+}
+.dashboard-popup-sub-container-ns {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.dashboard-popup-success-icon-ns {
+  width: 30px;
+  height: 30px;
+  background: #209628;
+  border-radius: 9999px;
+}
+.dashboard-popup-text-right-ns {
+  padding-right: 5px;
+}
+.dashboard-popup-link-ns {
+  color: #07bc0c;
+}
+.dashboard-popup-text-left-ns {
+  padding-left: 5px;
+}
+.dashboard-popup-text-ns {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  color: #000000;
+}
+@media (max-width: 768px) {
+  .dashboard-popup-text-ns {
+    font-size: 11px;
+  }
+}
+
+.Bussiness_project_distribution_h .g2-tooltip-value {
+  float: left;
+}
+.T_M_Screen_Container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+}
+.orderHistoryFlex-ns {
+  display: flex;
+  align-items: baseline;
+  gap: 36px;
+}
+.dropDownBorder {
+  width: 100px;
+  height: 35.13px;
+  border: 0.88px solid #6e8e16;
+  border-radius: 4.43px;
+  cursor: pointer;
+}
+.selectedDropdowniconContainer-ns {
+  display: flex;
+  align-items: center;
+  padding-top: 3px;
+  justify-content: space-around;
+}
+.dropDownContainerForGraph {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.dropDownIcon {
+  transform: rotate(-180deg);
+}
+.dropDownBorderForGraph {
+  width: 100px;
+  height: 30.13px;
+  border: 0.88px solid #6e8e16;
+  border-radius: 4.43px;
+  cursor: pointer;
+}
+.dropDownSelected {
+  font-size: 16px;
+  line-height: 17px;
+  padding-left: 2px;
+  display: block;
+}
+.dropDownOptions {
+  height: auto;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  padding-bottom: 10px;
+  position: absolute;
+  top: 40px;
+  z-index: 100;
+  font-size: 16px;
+  line-height: 28px;
+  color: black;
+  cursor: pointer;
+  width: 100px;
+  background: #ffffff;
+  border: 1.48px solid #a3a3a3;
+  border-radius: 7.44px;
+}
+
+.first_block1_business {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.first_b_inner_business {
+  margin-top: 25px;
+}
+.first_b_inner_business span {
+  color: #f0fde2;
+  font-size: 16px;
+  font-weight: 600;
+}
+.first_block_right_business {
+  display: flex;
+  height: 140px;
+  justify-content: flex-end;
+}
+.dropDownOptionsForGraph {
+  height: auto;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  padding-bottom: 10px;
+  position: absolute;
+  top: 61px;
+  z-index: 100;
+  font-size: 16px;
+  line-height: 28px;
+  color: black;
+  cursor: pointer;
+  width: 100px;
+  background: #ffffff;
+  border: 1.48px solid #a3a3a3;
+  border-radius: 7.44px;
+}
+.dropdownItem {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid;
+  padding-left: 15px;
+}
+@media (max-width: 768px) {
+  .dropdownItem {
+    font-size: 14px;
+  }
+}
+@media (max-width: 768px) {
+  .dropDownSelected {
+    font-size: 14px;
+  }
+}
+
+.dropdownItem:last-child {
+  border-bottom: none;
+  padding-bottom: 10px;
+}
+.Bussiness_Impact_Offset {
+  /* width: 49%; */
+  height: 94%;
+  box-shadow: 0px 0px 16px -3px rgb(0 0 0 / 51%);
+  /* margin-left: 10px; */
+  border-radius: 12px;
+  margin-top: 22px;
+}
+
+.Bussiness_project_distribution_h {
+  font-family: "Roboto-Bold";
+  font-weight: bold;
+  padding-left: 24px;
+  padding-top: 18px;
+  font-size: 20px;
+}
+.Bussiness_project_distribution_h_ns {
+  padding-left: 0px !important;
+}
+
+.Bussiness_project_distribution_inner_part1 {
+  display: flex;
+  height: 100px;
+  align-items: center;
+  justify-content: space-between;
+  width: 94%;
+}
+
+.no-color {
+  color: unset !important;
+}
+
+.Bussiness_project_distribution_inner_imagePart {
+  display: flex;
+  align-items: center;
+  padding-left: 24px;
+}
+
+.Bussiness_project_distribution_inner_part_imagePart_Main {
+  width: 43%;
+  height: 40px;
+}
+
+.Bussiness_project_distribution_inner_part_imagePart_Main_SubImage {
+  width: 37%;
+}
+
+.Bussiness_project_distribution_inner_part_image_sideArrow {
+  width: 82%;
+  height: 21px;
+}
+.Bussiness_project_distribution_inner_part {
+  height: 101px;
+  box-shadow: 0px 0px 16px -3px rgb(0 0 0 / 51%);
+  /* margin-top: 14px; */
+  border-radius: 12px;
+}
+.Bussiness_project_distribution_inner_imagePart_P {
+  width: 160px;
+  padding-left: 10px;
+  font-family: "Roboto-Bold";
+  font-size: 16px;
+}
+
+.bussiness_graph_height {
+  height: 275px !important;
+  padding: 22px;
+  vertical-align: left !important ;
+}
+.login-text-span {
+  color: var(--color-individual);
+  font-family: Roboto-Bold;
+  padding-right: 4px;
+}
+.Business_Header_Center_empty {
+  height: 300px;
+}
+.ant-layout-sider-children {
+  background-color: #ffffff;
+}
+.ant-layout-siderP{
+   min-width: 200px;
+}
+@media screen and (min-width: 360px) and (max-width: 576px) {
+  .business-inner-text {
+    margin-left: 16px;
+  }
+  .first_block_img {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+  }
+  .impact-graph-dropdown {
+    width: 21%;
+    line-height: 13px;
+    font-size: 11px;
+  }
+  .grpah-dropdown-selected {
+    font-size: 11px;
+  }
+  .impact-graph-dropdown > p {
+    font-size: 11px !important;
+  }
+}
+@media screen and (min-width: 360px) and (max-width: 992px) {
+  .year-container-block {
+    display: flex;
+  }
+  .year-container-block input[type="radio"] {
+    margin-bottom: 23px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .impact-graph-dropdown {
+    width: 21%;
+    line-height: 13px;
+    font-size: 11px;
+  }
+  .grpah-dropdown-selected {
+    font-size: 11px;
+  }
+}
+
+.biz-pd-graph-header-ns {
+  display: flex;
+  flex-direction: row;
+}

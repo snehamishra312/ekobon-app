@@ -1,0 +1,339 @@
+.Indivdual_Project_MiddleContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 29px;
+}
+
+.Individual_Project_MidScreen_Main {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.Individual_Project_first_block {
+  height: 212px;
+  background-color: var(--color-white);
+  /* margin: 9px 10px; */
+  border-radius: 22px;
+}
+
+.first_Project_block1 {
+  display: flex;
+  /* flex-direction: column; */
+  width: 100%;
+  height: 212px;
+  /* background-color: var(--color-individual); */
+  box-shadow: 0px 0px 16px -3px rgb(0 0 0 / 51%);
+  border-radius: 28px;
+}
+.first_Project_block1_Main {
+  margin: 37px 17px;
+}
+
+.first_Project_block_head {
+  font-size: 22px;
+  font-family: "Roboto-Bold";
+}
+
+.first_Project_block_P {
+  letter-spacing: 1px;
+  color: #969696;
+  word-spacing: 2px;
+}
+
+.individual_first_project_square {
+  background-color: var(--color-individual-secondsquare);
+  box-shadow: 0px 0px 16px -3px rgb(0 0 0 / 51%);
+}
+
+.indv_project_squareT {
+  color: var(--color-individual-secondsquareT);
+  font-size: 16px !important;
+}
+
+.individual_first_projectP {
+  display: flex;
+}
+
+.first_block_projectT {
+  color: var(--color-individual-project-black);
+}
+
+.T_M_Project_box {
+  padding: 0px 0px;
+  margin: 0px;
+  border: none;
+}
+
+.T_M_Project_box_inner {
+  width: 36%;
+  box-shadow: 0px 0px 16px -3px rgb(0 0 0 / 51%);
+}
+
+.Carousel_Project_Main {
+  position: relative;
+  height: 480px;
+  /* margin-top: 52px; */
+}
+
+.order-history-myproject-height {
+  height: auto !important;
+}
+.back-myproject {
+  top: 32px !important;
+  left: 91% !important;
+}
+
+.individual_project_r_energy {
+  margin-top: 90px;
+}
+
+.Renawable_slider_back {
+  top: 24% !important;
+}
+
+.Renawable_slider_forward {
+  top: 24% !important;
+}
+.Renewable_energyP {
+  font-size: 13px;
+  margin: 29px 0px;
+  font-family: "Roboto-Bold";
+  color: var(--color-individual-i-b-amount);
+}
+
+.renewable_energy_inner1 {
+  height: 43%;
+}
+
+.renewable_energy_image {
+  height: 81%;
+}
+
+.renewable_energy_btn {
+  background-color: var(--color-individual);
+  border: none;
+  color: var(--color-white);
+}
+
+.forestry_slider_back {
+  top: 39% !important;
+}
+
+.forestry_slider_forward {
+  top: 39% !important;
+}
+
+.individual_project_forestry {
+  margin-top: 150px;
+}
+
+.energy_efficiency_slider_back {
+  top: 52% !important;
+}
+.energy_efficiency_slider_forward {
+  top: 52% !important;
+}
+
+.individual_project_Energy_Efficiency {
+  margin-top: 210px;
+}
+
+.IndividualInvestIn_Climate {
+  margin-top: 30px;
+  width: 100%;
+}
+
+.IndividualInvestIn_Climate_block1 {
+  height: 220px;
+}
+
+.IndividualInvestIn_Climate_block1_Main {
+  margin: 37px 17px;
+  width: 50%;
+}
+
+.IndividualInvestIn_ClimateP {
+  width: 100%;
+  font-size: 15px;
+}
+
+.InvestClimateS a {
+  color: var(--color-individual);
+  font-family: "Roboto-Bold";
+  padding: 0 4px;
+}
+.InvestClimateS a:hover {
+  color: var(--color-individual);
+}
+.invest_climate_project_img {
+  height: 100%;
+  border-radius: 52px;
+}
+.invest_climate_project_img_main {
+  width: 100%;
+  height: 100%;
+}
+.climate_images {
+  width: 100%;
+  height: 100%;
+}
+.carousel-climate-project .rec-arrow:disabled {
+  cursor: not-allowed;
+  display: none;
+}
+.carsousal-items {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.carousel-climate-project_width {
+  /* width: 92% !important; */
+}
+.carousel-climate-project .rec-arrow {
+  background: none !important;
+  border: 0;
+  box-shadow: none !important;
+  font-size: 17px;
+  color: #333 !important;
+}
+.image_height_div {
+  height: 185px;
+}
+.climate_project {
+  display: flex;
+  align-items: center;
+}
+.climate_project .Climate17Goals {
+  width: 60rem;
+  margin: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+.yt_slider_back_climate {
+  position: unset !important;
+  width: 65px;
+  height: 45px;
+  background: none;
+}
+.yt_slider_forward_climate {
+  position: unset !important;
+  width: 65px;
+  height: 45px;
+  background: none;
+}
+.project_crsl_slider_back_climate {
+  position: unset !important;
+  width: 50px;
+  height: 35px;
+  background: none;
+}
+.project_crsl_slider_forward_climate {
+  position: unset !important;
+  width: 50px;
+  height: 35px;
+  background: none;
+}
+.climate_upper_test {
+  font-size: 18px;
+  line-height: 30px;
+  margin: 30px 0px;
+}
+.climate_upper_test span {
+  color: #88ae47 !important;
+}
+.caurausal_main {
+  width: 100%;
+  background: #fafafa;
+  padding-bottom: 28px;
+}
+.standard_p {
+  letter-spacing: 1.2px;
+  padding: 25px 0px 20px 0px;
+  font-size: 18px;
+}
+.standard_h4 {
+  margin-bottom: 32px;
+  font-size: 29px;
+}
+.climate_images_icon {
+  width: 95%;
+  padding: 12px;
+}
+.climate_images_2 {
+  height: 100%;
+  width: 100%;
+}
+.guIbWC {
+  height: 100%;
+}
+.rec-item-wrapper {
+  height: 100%;
+  /* width: auto !important; */
+}
+@media screen and (min-width: 577px) {
+
+  .Carousel_Main_NS .rec-item-wrapper {
+    height: 100%;
+    width: auto !important;
+  }
+}
+.slideImage {
+  max-height: 310px;
+  width: auto;
+}
+.ant-table-container table > thead > tr:first-child th:first-child {
+  width: 250px !important;
+}
+
+/* Mobile responsive */
+@media screen and (min-width: 360px) and (max-width: 576px) {
+  .first_Project_block_head {
+    font-size: 15px;
+  }
+  .IndividualInvestIn_Climate_block1_Main {
+    margin: 20px 15px;
+    width: 100%;
+  }
+  .first_Project_block_P {
+    font-size: 12px;
+  }
+  .first_Project_block1_Main {
+    margin: 15px 10px;
+  }
+  .investin-climate-sec {
+    width: auto;
+    flex-direction: column;
+    padding-right: 5px;
+  }
+  .investin-climate-sec-main {
+    width: fit-content;
+    margin: 15px 10px 0px 15px;
+    height: 50%;
+  }
+  .investin-climate-sec-img-main {
+    height: 43%;
+  }
+  .investin-climate-sec-img {
+    border-radius: 20px;
+  }
+  .climate-project-standards-text {
+    font-size: 25px;
+  }
+}
+@media screen and (min-width: 360px) {
+  .climate_project .Climate17Goals {
+    width: 100%;
+  }
+}
+/* Tablet responsive */
+@media screen and (min-width: 577px) and (max-width: 768px) {
+  .first_Project_block_head {
+    font-size: 16px;
+  }
+  .IndividualInvestIn_Climate_block1_Main {
+    margin: 6px 7px;
+    width: 50%;
+  }
+}

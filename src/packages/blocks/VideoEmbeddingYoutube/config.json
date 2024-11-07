@@ -1,0 +1,65 @@
+{
+  "id": "VideoEmbeddingYoutube",
+  "version": "0.0.1",
+  "status": "preAlpha",
+  "path": "./packages/blocks/VideoEmbeddingYoutube",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "VideoEmbeddingYoutube"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "VideoEmbeddingYoutube": {
+        "file": "VideoEmbeddingYoutube.tsx",
+        "extends": "VideoEmbeddingYoutubeController",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "VideoEmbeddingYoutubeController",
+            "path": "./VideoEmbeddingYoutubeController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./VideoEmbeddingYoutubeController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "VideoEmbeddingYoutube"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "VideoEmbeddingYoutube": {
+        "file": "VideoEmbeddingYoutube.web.tsx",
+        "extends": "VideoEmbeddingYoutubeController",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "VideoEmbeddingYoutubeController",
+            "path": "./VideoEmbeddingYoutubeController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./VideoEmbeddingYoutubeController"
+          }
+        ]
+      }
+    }
+  }
+}

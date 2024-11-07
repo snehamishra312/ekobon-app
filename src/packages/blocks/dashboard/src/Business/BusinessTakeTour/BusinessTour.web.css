@@ -1,0 +1,258 @@
+.business-tour-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+.indv-tour-begin-sec {
+  z-index: 99;
+}
+
+.tour-modal-close-btn {
+  padding: 0 !important;
+  background: none !important;
+  width: unset !important;
+}
+
+.business-tour-container .business-tour-bg-image {
+  width: 100%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.business-tour-sub {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: block;
+}
+
+.business-tour-modal {
+  max-width: 100%;
+  padding: 20px 40px;
+  border-radius: 15px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 999;
+  background: #ffff;
+  width: 380px;
+}
+
+.business-tour-arrow:before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  z-index: 9999;
+}
+
+.business-tour1 {
+  top: 250px;
+  left: 15%;
+}
+
+.business-tour1:before {
+  left: 60px;
+  bottom: 100%;
+  transform: rotate(360deg);
+}
+
+.business-tour2 {
+  top: 170px;
+  left: 74%;
+}
+
+.business-tour2:before {
+  right: 99%;
+  bottom: 95px;
+  transform: rotate(270deg);
+}
+
+.business-tour8:before {
+  right: -3%;
+  bottom: 95px;
+  transform: rotate(90deg);
+}
+
+.business-tour3 {
+  top: 170px;
+  left: 74%;
+}
+.business-tour3:before {
+  right: 50%;
+  bottom: 202px;
+  transform: rotate(0deg);
+}
+
+.business-tour4 {
+  left: 32%;
+  top: 22%;
+}
+.business-tour4:before {
+  right: 50%;
+  bottom: -10px;
+  transform: rotate(180deg);
+}
+.business-tour5 {
+  top: 37%;
+  left: 58%;
+}
+
+.business-tour5:before {
+  left: 50%;
+  top: 100%;
+  transform: rotate(180deg);
+}
+.business-tour6 {
+  top: 55%;
+  left: 45%;
+}
+
+.business-tour6:before {
+  left: 50%;
+  top: -4%;
+  transform: rotate(0deg);
+}
+
+.business-tour9:before,
+.business-tourend:before {
+  content: unset;
+}
+
+.business-tour7 {
+  top: 70%;
+  left: 53%;
+}
+.business-tour7:before {
+  z-index: 0;
+}
+
+.business-tour8 {
+  top: 105%;
+  right: 45%;
+  left: unset;
+}
+
+.business-tour10 {
+  top: 24%;
+  left: unset;
+  right: -7%;
+}
+
+.business-tour10:before {
+  left: 59%;
+  top: -8px;
+  transform: rotate(0deg);
+}
+
+.business-tour-modal-header {
+  position: relative;
+  font-size: 18px;
+  font-family: "Roboto-Bold";
+}
+
+.business-tour-modal-cross {
+  position: absolute;
+  top: 0;
+  right: -10px;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.business-tour-modal-body {
+  font-weight: 600;
+  color: #ababab;
+  font-size: 15px;
+  padding: 15px 0;
+}
+
+.business-tour-green-btn,
+.business-tour-light-btn {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-family: "Roboto-Bold";
+  font-size: 16px;
+}
+
+.tour-width-btn {
+  width: 100% !important;
+  padding: 10px;
+}
+
+.business-tour-green-btn {
+  background-color: #89aa51;
+  width: 100px;
+}
+
+.business-tour-light-btn {
+  color: rgb(14, 14, 14);
+
+  width: 100px;
+}
+
+.business-tour-modal-footer {
+  margin-top: 10px;
+}
+
+.infotext {
+  color: #ababab;
+  font-size: 16px;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+@media (min-width: 768px) and (max-width: 1366px) {
+  .business-tour1 {
+    left: 17%;
+  }
+  .business-tour2 {
+    top: 162px;
+  }
+  .business-tour3 {
+    top: 112%;
+    left: 63%;
+  }
+  .business-tour4 {
+    top: 20%;
+    left: 33%;
+  }
+  .business-tour5 {
+    top: 37%;
+    left: 39%;
+  }
+  .business-tour6 {
+    top: 57%;
+    left: 45%;
+  }
+  .business-tour7 {
+    top: 72%;
+  }
+  .business-tour8 {
+    top: 105%;
+    left: 29%;
+  }
+  .business-tour10 {
+    top: 25%;
+    right: -4%;
+  }
+  .business-tour10:before {
+    left: 80%;
+  }
+}

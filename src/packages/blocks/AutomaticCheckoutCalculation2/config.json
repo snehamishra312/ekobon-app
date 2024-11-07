@@ -1,0 +1,65 @@
+{
+  "id": "AutomaticCheckoutCalculation2",
+  "version": "0.0.1",
+  "status": "preAlpha",
+  "path": "./packages/blocks/AutomaticCheckoutCalculation2",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "AutomaticCheckoutCalculation2"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "AutomaticCheckoutCalculation2": {
+        "file": "AutomaticCheckoutCalculation2.tsx",
+        "extends": "AutomaticCheckoutCalculation2Controller",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "AutomaticCheckoutCalculation2Controller",
+            "path": "./AutomaticCheckoutCalculation2Controller"
+          },
+          {
+            "value": "{Props}",
+            "path": "./AutomaticCheckoutCalculation2Controller"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "AutomaticCheckoutCalculation2"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "AutomaticCheckoutCalculation2": {
+        "file": "AutomaticCheckoutCalculation2.web.tsx",
+        "extends": "AutomaticCheckoutCalculation2Controller",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "AutomaticCheckoutCalculation2Controller",
+            "path": "./AutomaticCheckoutCalculation2Controller"
+          },
+          {
+            "value": "{Props}",
+            "path": "./AutomaticCheckoutCalculation2Controller"
+          }
+        ]
+      }
+    }
+  }
+}

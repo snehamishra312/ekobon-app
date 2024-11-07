@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ep:office-building</title>
+    <g id="Extra-screens-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Offset---Buisness---One-Time---Flight-" transform="translate(-841.000000, -2622.000000)">
+            <g id="CSR-Awareness" transform="translate(253.000000, 2454.000000)">
+                <g id="Group-11" transform="translate(92.000000, 136.000000)">
+                    <g id="Group-10-Copy-2" transform="translate(422.000000, 0.000000)">
+                        <g id="Group-9" transform="translate(42.000000, 0.000000)">
+                            <g id="ep:office-building" transform="translate(32.000000, 32.000000)">
+                                <rect id="ViewBox" x="0" y="0" width="40" height="40"></rect>
+                                <path d="M7.5,5 L7.5,32.5 L22.5,32.5 L22.5,5 L7.5,5 Z M6.25,2.5 L23.75,2.5 C24.4403559,2.5 25,3.05964406 25,3.75 L25,33.75 C25,34.4403559 24.4403559,35 23.75,35 L6.25,35 C5.55964406,35 5,34.4403559 5,33.75 L5,3.75 C5,3.05964406 5.55964406,2.5 6.25,2.5 Z" id="Shape" fill="#86AF48" fill-rule="nonzero"></path>
+                                <path d="M10,10 L20,10 L20,12.5 L10,12.5 L10,10 Z M10,17.5 L20,17.5 L20,20 L10,20 L10,17.5 Z M10,25 L20,25 L20,27.5 L10,27.5 L10,25 Z M25,20 L30,20 L30,22.5 L25,22.5 L25,20 Z M25,25 L30,25 L30,27.5 L25,27.5 L25,25 Z M2.5,32.5 L37.5,32.5 L37.5,35 L2.5,35 L2.5,32.5 Z" id="Shape" fill="#86AF48" fill-rule="nonzero"></path>
+                                <path d="M25,15 L25,32.5 L32.5,32.5 L32.5,15 L25,15 Z M23.75,12.5 L33.75,12.5 C34.4403559,12.5 35,13.0596441 35,13.75 L35,33.75 C35,34.4403559 34.4403559,35 33.75,35 L23.75,35 C23.0596441,35 22.5,34.4403559 22.5,33.75 L22.5,13.75 C22.5,13.0596441 23.0596441,12.5 23.75,12.5 Z" id="Shape" fill="#86AF48" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

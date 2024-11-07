@@ -1,0 +1,33 @@
+/* Rounded sliders */
+.slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+
+  .switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+  
+  .switch input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .ct_calculator_btn button {
+    padding: 8px 16px;
+    background-color: #449b4d;
+    color: #fff;
+    border: 1px solid #449b4d;
+    border-radius: 30px;
+}
+.ct_calculator_btn {
+  text-align: right;
+  margin-bottom: 15px;
+}

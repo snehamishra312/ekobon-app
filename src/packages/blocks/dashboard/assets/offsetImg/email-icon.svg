@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>material-symbols:mark-email-read-outline</title>
+    <g id="Extra-screens-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-13-Copy-2" transform="translate(-377.000000, -172.000000)">
+            <g id="Group-12" transform="translate(121.000000, 40.000000)">
+                <g id="Group-11" transform="translate(0.000000, 100.000000)">
+                    <g id="Group-10-Copy" transform="translate(198.000000, 0.000000)">
+                        <g id="Group-9" transform="translate(26.000000, 0.000000)">
+                            <g id="material-symbols:mark-email-read-outline" transform="translate(32.000000, 32.000000)">
+                                <rect id="ViewBox" x="0" y="0" width="40" height="40"></rect>
+                                <path d="M26.5833333,36.6666667 L19.5,29.5833333 L21.8333333,27.25 L26.5833333,32 L36,22.5833333 L38.3333333,24.9166667 L26.5833333,36.6666667 Z M20,18.3333333 L33.3333333,10 L6.66666667,10 L20,18.3333333 Z M20,21.6666667 L6.66666667,13.3333333 L6.66666667,30 L15.25,30 L18.5833333,33.3333333 L6.66666667,33.3333333 C5.75,33.3333333 4.96555556,33.0072222 4.31333333,32.355 C3.66,31.7016667 3.33333333,30.9166667 3.33333333,30 L3.33333333,10 C3.33333333,9.08333333 3.66,8.29888889 4.31333333,7.64666667 C4.96555556,6.99333333 5.75,6.66666667 6.66666667,6.66666667 L33.3333333,6.66666667 C34.25,6.66666667 35.035,6.99333333 35.6883333,7.64666667 C36.3405556,8.29888889 36.6666667,9.08333333 36.6666667,10 L36.6666667,17.25 L33.3333333,20.5833333 L33.3333333,13.3333333 L20,21.6666667 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

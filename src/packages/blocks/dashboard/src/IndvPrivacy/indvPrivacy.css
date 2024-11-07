@@ -1,0 +1,20 @@
+.indv-privacy-sec-head p {
+  margin-bottom: 0;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.indv-privacy-sec-text p {
+  margin-bottom: 0;
+  text-align: justify;
+}
+.indv-privacy-policy-sec li {
+  list-style-type: disc;
+  margin-left: 18px;
+  text-align: justify;
+}
+@media screen and (max-width: 576px) {
+  .indv-privacy-policy-sec {
+    margin-top: 0px !important;
+  }  
+}

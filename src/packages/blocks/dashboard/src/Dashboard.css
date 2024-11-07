@@ -1,0 +1,1941 @@
+.carbon-app-Banner {
+  background-color: #f4f4f4 !important;
+  background: url("../assets/carbon_bgimg.png") no-repeat right 40px top;
+}
+
+
+.color-black {
+  color: #000000 !important;
+  margin: 8px 0 0 0 !important;
+}
+
+.font-wg-500 {
+  font-weight: 500 !important;
+  padding-bottom: 20px;
+}
+
+.carbon-app-bann-row {
+  padding: 0px;
+}
+
+.carbon-app-bann-row h1 {
+  font-weight: 400;
+}
+
+.carbon-app-bann-row h1 span {
+  font-weight: 700;
+  margin: 12px 0 !important;
+}
+
+.carbon-app-bann-row p {
+  color: #969696;
+  margin: 26px 0;
+  margin: 26px 0 0 0;
+}
+
+.carbon-app-bann-btn-sec {
+  padding: 50px 0;
+}
+
+.carbon-app-bann-green-btn a {
+  color: #000000 !important;
+}
+
+.carbon-app-bann-green-btn button {
+  background-color: #88ae47 !important;
+  border: none;
+  padding: 22px 26px;
+  border-radius: 16px;
+  width: 205px;
+  font-weight: 600;
+}
+
+.carbon-app-bann-blue-btn button {
+  background-color: #c2e7ed;
+  color: #000000;
+  border: none;
+  padding: 22px 26px;
+  border-radius: 16px;
+  width: 205px;
+  font-weight: 600;
+}
+
+.carbon-app-reduce-emissions {
+  padding: 56px 0;
+}
+
+.carbon-app-reduce-emissions-head {
+  text-align: center;
+}
+.partners-head {
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+}
+
+.carbon-app-reduce-emissions h3 span {
+  font-weight: 700;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.carbon-app-reduce-emissions-tabs-new .ant-tabs-nav-wrap {
+  justify-content: center;
+}
+.carbon-app-reduce-emissions-tabs .ant-tabs-nav-wrap {
+  justify-content: center;
+}
+.carbon-app-reduce-emissions-tabs .ant-tabs-nav {
+  padding-bottom: 30px;
+}
+
+.carbon-app-reduce-emissions-tabs .ant-tabs-top > .ant-tabs-nav::before {
+  border-bottom: none !important;
+}
+
+.carbon-app-reduce-emissions-tabs .ant-tabs-nav-list {
+  background-color: #f3f3f3 !important;
+  padding: 0px 12px;
+  border-radius: 8px;
+}
+
+.carbon-app-reduce-emissions-tabs .ant-tabs-tab-active {
+  background: #fff;
+  padding: 0px 20px;
+  margin: 6px 0 6px 15px !important;
+  border-radius: 6px;
+  width: 100px;
+}
+.carbon-app-reduce-emissions-tabs .ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: #000000 !important;
+  font-weight: 500;
+}
+.carbon-app-reduce-emissions-tabs .ant-tabs-tab:hover {
+  color: #000000;
+}
+.carbon-app-reduce-emissions-tabs .ant-tabs-tab-active .ant-tabs-tab-btn:focus,
+.ant-tabs-tab-remove:focus,
+.ant-tabs-tab-btn:active,
+.ant-tabs-tab-remove:active {
+  color: #000000 !important;
+}
+.carbon-app-reduce-emissions-tabs .ant-tabs-ink-bar {
+  display: none;
+}
+
+.carbon-action-sec {
+  background: url("https://minio.b120578.dev.eastus.az.svc.builder.cafe/sbucket/variants/5rxwo1ps1jnsdart95lniikzuvzy/6f7daa6c86a9bc2c53f5d0684447f253adfa8f13401d95f9d66464245ed9ff2e?response-content-disposition=inline%3B%20filename%3D%22home_sec_change_climate.jpg%22%3B%20filename%2A%3DUTF-8%27%27home_sec_change_climate.jpg&response-content-type=image%2Fjpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 48px;
+  border-radius: 8px;
+}
+
+.carbon-action-img-overlay-sec {
+  background-color: #ebeaeaf2;
+  padding: 32px;
+  border-radius: 8px;
+}
+
+.carbon-climate-inner-part-sec button {
+  background-color: #88ae47;
+  color: #fff;
+  border-radius: 10px;
+  border: none;
+  padding: 12px 32px;
+}
+.carbon-climate-inner-part-sec button a {
+  color: #fff;
+}
+.why-climate-change-sec {
+  background: #f5f5f5 !important;
+}
+.why-climate-change-sec-in {
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .why-climate-change-sec-in-padding-ns {
+    align-items: baseline;
+    padding-left: 20px !important;
+  }
+  .why_climate_center_ns {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    justify-content: center !important;
+  }
+  .why-climate-change-sec-in-padding-ns p {
+    padding-bottom: 0px !important;
+    margin-bottom: 0px !important;
+    padding-left: 20px !important;
+  }
+}
+
+.why-climate-change-sec-in img {
+  width: 150px;
+  height: 150px;
+}
+
+.why-climate-change-sec-in .head {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.why-climate-change-sec-in .text {
+  font-weight: 500;
+  font-size: 15px;
+  text-align: center;
+  color: #a0a0a0;
+}
+
+.why-climate-change-sec-head p {
+  font-size: 24px;
+  text-align: center;
+  font-weight: 400;
+}
+.why_climate_center {
+  justify-content: center;
+}
+.why-climate-change-sec-head p span {
+  font-weight: 700;
+}
+
+.carbon-app-sec-faq {
+  background-color: #f4f4f4;
+}
+
+.carbon-app-sec-faq .head {
+  font-weight: 600;
+  text-align: center;
+  font-size: 24px;
+}
+
+.carbon-app-sec-faq .ant-collapse {
+  border: none;
+  background: none;
+}
+
+.carbon-app-sec-faq .ant-collapse > .ant-collapse-item {
+  background: #ffffff !important;
+  border: none;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.carbon-home-started-sec {
+  background: url("../assets/started_bgImg.png") no-repeat -30px;
+  background-size: 100%;
+}
+.carbon-home-started-sec .upp {
+  padding: 0px 125px;
+}
+
+.carbon-home-started-sec .head {
+  font-weight: 800;
+  text-align: center;
+  font-size: 24px;
+}
+
+.carbon-home-started-sec .btn .carbon-app-get-btn-sec {
+  justify-content: center;
+}
+
+.carbon-home-started-sec .img img {
+  width: 100%;
+}
+.text p {
+  font-weight: 500;
+  color: #8c8c8c;
+}
+
+.carbon-banner-img img {
+  width: 100%;
+}
+/* .carbon_emission {
+  padding: 20px 0px 0px 0px;
+} */
+
+.carbon_emission .label {
+  font-size: 20px;
+  font-weight: 600;
+}
+.carbon_emission .description {
+  color: #a0a0a0;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.hr_col {
+  border-left: 1px solid #f3f3f3;
+}
+
+.carbon_emission_img {
+  background-color: #fff;
+  border-radius: 15px;
+  max-height: 145px;
+  padding: 25px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0px 0px 40px #dfe5bf;
+  width: 145px;
+}
+
+.padding-b50 {
+  padding-bottom: 50px;
+}
+.justify_space_evenly {
+  justify-content: space-evenly !important;
+}
+.carbon-project-categories {
+  padding: 56px 0;
+  background-color: #f7f7f7;
+}
+.carbon-project-categories-head {
+  text-align: center;
+  margin-bottom: 45px;
+}
+
+.carbon-project-categories h3 {
+  font-weight: 800;
+}
+.carbon-project-categories h3 span {
+  font-weight: 400;
+}
+.carbon_pro_cat_img {
+  border-radius: 15px;
+}
+.pro_cat_img_center {
+  display: flex;
+  justify-content: center;
+}
+.pro-cat-img {
+  border-radius: 22px;
+  padding: 7px 14px;
+  font-size: 14px;
+  font-weight: 500;
+  margin: 5px 0px 0px 12px;
+  top: 15px;
+  position: absolute;
+  /* right: 300px; */
+  background: rgba(0, 0, 0, 0.4);
+  color: #f1f1f1;
+}
+.read_artical_center {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 60px;
+  position: relative;
+}
+.read_artical .container .read_more {
+  display: flex;
+  justify-content: center;
+  color: #88ae47;
+  font-size: 17px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.read_artical_center .ArticleImg1 {
+  max-width: 700px;
+}
+.article_profile_img .ArticleImg2 {
+  max-width: 400px;
+}
+.right_move {
+  margin-right: 285px !important;
+}
+.read_artical_center .article_content {
+  background-color: #f4f4f4;
+  margin: 170px 0px 75px;
+  padding: 40px 40px;
+  border-radius: 12px 12px 0 12px;
+  margin-left: -100px;
+}
+.article_profile_img .article_content {
+  width: 100%;
+}
+.read_artical_center .article_content h4 {
+  font-size: 32px;
+  font-weight: 700;
+}
+.article_profile_img .article_content h4 {
+  font-size: 16px;
+  font-weight: 700;
+}
+.read_artical_center .left_view .artical_profile {
+  width: 35px;
+}
+.article_info .left_view img {
+  width: 40px;
+}
+.article_info .left_view span {
+  padding-left: 8px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #8c8c8c;
+}
+.article_info .right_view p {
+  padding-top: 10px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #8c8c8c;
+}
+.article_info {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+.read_artical_center .article_btn {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: calc(100% - 700px);
+  height: 75px;
+}
+.article_profile_img .article_btn {
+  width: calc(100% - 400px);
+}
+.read_artical_center .article_btn .ant-btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 12px;
+  cursor: pointer;
+  border-color: #88ae47 !important;
+  background: #88ae47 !important;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.carbon-pro-cat-card {
+  border-bottom-right-radius: 14px;
+  border-bottom-left-radius: 14px;
+  background-color: #fff;
+  height: 60px;
+  padding: 18px 30px;
+  top: -25px;
+  position: inherit;
+}
+.carbon-pro-cat-card h4 {
+  font-size: 18px;
+  font-weight: 700;
+}
+.ant-col-lg-21 {
+  max-width: 72.5% !important;
+}
+
+.my-subscription-card-frequency-value {
+  font-size: 11px;
+}
+.my-subscription-card-cancel {
+  color: red !important;
+}
+.my-subscription-card-renew-disabled {
+  color: grey !important;
+}
+.my-subscription-card-renew {
+  color: green !important;
+}
+
+.ns-name-change {
+  width: 251px;
+}
+
+@media screen and (max-width: 998px) {
+  .carbon-app-bann-green-btn button,
+  .carbon-app-bann-blue-btn button {
+    width: 100%; /*165px; */
+  }
+}
+/* @media screen and (max-width:991px) {
+  .carbon_emission {
+    text-align: center;
+}
+.carbon_emission_img {
+  margin-bottom: 15px;
+}
+} */
+.ct_object_cover{
+  object-fit: contain;
+}
+
+.ct_border_left_div .ct_border_div:nth-child(1) {
+  border-right: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
+}
+.ct_border_left_div .ct_border_div:nth-child(2) {
+  border-top: 1px solid #aaa;
+  border-right: 1px solid #aaa;
+}
+.ct_border_right_div .ct_border_div:nth-child(1) {
+  border-left: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
+}
+.ct_border_right_div .ct_border_div:nth-child(2) {
+  border-top: 1px solid #aaa;
+  border-left: 1px solid #aaa;
+}
+
+@media screen and (max-width: 767px) {
+  .padding-b50 {
+    padding-bottom: 30px;
+  }
+  .ant-col {
+    padding-right: 0px !important;
+  }
+  .why-climate-change-sec-in {
+    display: flex;
+  }
+  .why-climate-change-sec-in .text {
+    text-align: left;
+    padding: 14px 8px;
+    width: 200px !important;
+  }
+  .why_climate_center {
+    justify-content: left;
+  }
+  .carbon-app-bann-btn-sec {
+    padding: 18px 0;
+  }
+  .climate-action-not-difficult-para-number {
+    font-size: 22px !important;
+  }
+  .transparency-at-our-code-sec-block2 {
+    padding: 10px !important;
+    height: 100px !important;
+  }
+  .dashboard_img_sec {
+    display: flex;
+  }
+  .transparency-at-our-code-sec-block p,
+  .transparency-at-our-code-sec-block2 p,
+  .transparency-at-our-code-sec-block3 p,
+  .transparency-at-our-code-sec-block4 p {
+    font-size: 16px !important;
+    padding-left: 16px;
+  }
+  img.carsousal-items-logo-image2-image3.ct_object_cover ,img.carsousal-items-logo-image1.ct_object_cover{
+    height: 80px !important;
+  }
+  
+  .transparency-at-our-code-sec {
+    padding: 0px !important;
+  }
+  .carbon-app-bann-blue-btn,
+  .carbon-app-bann-green-btn {
+    display: flex;
+    justify-content: center;
+  }
+  .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: #88ae47 !important;
+  }
+  .climate-action-btnsec-btn1 {
+    width: 192px !important;
+  }
+  .climate-action-btnsec-btn2 {
+    width: 192px !important;
+    height: 48px !important;
+  }
+  .carbon_emission .description {
+    padding-right: 30px !important;
+  }
+  .climate-offseting-sec-leftblock-text,
+  .climate-offseting-sec-rightblock-text {
+    width: 340px !important;
+    text-align: left !important;
+  }
+  .climate-project-img img,
+  .climate-project-img-left img {
+    width: 96% !important;
+  }
+  .ct_offset_project_main p.climate-offseting-sec-rightblock-text ,.ct_offset_project_main p.climate-offseting-sec-leftblock-text  {
+    width: 100% !important;
+}
+.ct_not_difficult_box .ant-row.ct_row_col {
+  display: flex !important;
+  grid-template-columns: unset!important;;
+}
+.ct_row_col .ct_col_full {
+  /* max-width: 100% !important; */
+  height: auto  !important;
+}
+.ct_why_climate .why-climate-change-sec-in {
+  align-items: center;
+  margin-bottom: 30px;
+}
+.ct_card_flex_div .ant-row.justify-content-evenly .ant-col {
+  width: auto !important;
+}
+}
+@media screen and (max-width: 769px) {
+  .padding-b50 {
+    padding-bottom: 30px;
+  }
+  .home_section {
+    justify-content: center;
+    margin-right: 0px !important;
+  }
+  .mt-5 {
+    margin-top: 0 !important;
+  }
+  .home_section .ant-col {
+    margin-bottom: 15px;
+  }
+  .carbon-app-reduce-emissions-head h3 {
+    font-size: 15px;
+    margin-bottom: 24px;
+  }
+
+  .carbon-home-started-sec .upp {
+    padding: 0;
+  }
+  .carbon-home-started-sec .container .w-100 .ant-row .ant-col {
+    margin-bottom: 15px;
+  }
+  .pt-5 {
+    padding-top: 2rem !important;
+  }
+  .read_artical {
+    display: block;
+    width: 100%;
+  }
+  .read_artical_center {
+    display: block;
+    margin-bottom: -210px;
+  }
+  .read_artical_center .article_content {
+    position: relative;
+    bottom: 250px;
+    margin-left: 0;
+  }
+  .read_artical_center .article_btn {
+    width: 100%;
+    bottom: 180px;
+  }
+  .read_artical_center .article_btn .ant-btn {
+    border-radius: 0 0 14px 14px;
+  }
+  .read_artical_center .article_content h4 {
+    font-size: 18px;
+  }
+  .article_info .left_view span {
+    font-size: 11px;
+  }
+  .article_profile_img .ArticleImg2 {
+    max-width: 100%;
+  }
+  .read_artical_center .ArticleImg1 {
+    height: 470px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .read_artical {
+    display: block;
+    width: 100%;
+  }
+  .why-climate-change-sec-head p {
+    font-size: 20px;
+    margin-top: 10px;
+    padding-top: 32px;
+  }
+  .read_artical_center {
+    display: block;
+    margin-bottom: -210px;
+  }
+  .py-5 {
+    padding-top: 0 !important;
+  }
+  .read_artical_center .article_content {
+    position: relative;
+    bottom: 250px;
+    margin-left: 0;
+    padding: 25px 40px;
+  }
+  .read_artical_center .article_btn {
+    width: 100%;
+    bottom: 180px;
+  }
+  .read_artical_center .article_btn .ant-btn {
+    border-radius: 0 0 14px 14px;
+  }
+  .read_artical_center .article_content h4 {
+    font-size: 18px;
+  }
+  .article_info .left_view span {
+    font-size: 11px;
+  }
+  .article_profile_img .ArticleImg2 {
+    max-width: 100%;
+  }
+  .read_artical_center .ArticleImg1 {
+    height: 470px;
+    width: 100%;
+  }
+  .carbon-app-reduce-emissions-tabs-new .ant-tabs-nav-wrap {
+    justify-content: center;
+  }
+}
+
+.indv-dash-custom-tbl .ant-table-thead > tr > th {
+  text-align: center;
+  background: none;
+  color: #c3c3c3;
+  font-weight: 500;
+}
+.name_change {
+  text-align: left !important;
+}
+.Image_change {
+  width: 40px;
+  padding: 16px 0px 16px 16px !important;
+  text-align: left !important;
+}
+.same_change {
+  width: 212px;
+}
+.profile-subscription-action {
+  color: rgb(255, 0, 0);
+}
+.profile-subscription-billing {
+  color: rgb(0, 0, 255);
+}
+.indv-dash-custom-tbl
+  .ant-table-thead
+  > tr
+  > th:not(:last-child):not(.ant-table-selection-column):not(.ant-table-row-expand-icon-cell):not([colspan])::before {
+  display: none !important;
+}
+
+.indv-dash-custom-tbl .ant-table-tbody > tr > td {
+  text-align: center;
+  background-color: #fafafa !important;
+}
+
+.term-condition-phead-txt {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.term-condition-para-txt {
+  font-size: 14px;
+  color: #83889e;
+}
+
+.term-para-link {
+  color: #0000ee !important;
+}
+
+.why-climate-change-sec-text p {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.why-climate-change-sec-text p span {
+  color: #a0a0a0;
+}
+
+.climate-action-btnsec p {
+  font-weight: 400;
+  font-size: 12px;
+  color: #a0a0a0;
+}
+
+.climate-action-btnsec-btn2 {
+  background: none;
+  width: 215px;
+  height: 56px;
+  font-weight: 600;
+  font-size: 16px;
+  border: #86af48 solid 2px;
+  border-radius: 3px;
+}
+
+.climate-action-btnsec-btn2 a {
+  color: #202020 !important;
+}
+
+.climate-action-btnsec-btn1 {
+  width: 215px;
+  height: 48px;
+  border: none;
+  background: #86af48 !important;
+  border-radius: 3px;
+  color: #ffffff !important;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.climate-action-btnsec-btn1 a {
+  color: #ffffff !important;
+  font-weight: 500;
+}
+
+.climate-action-not-difficult {
+  padding: 50px 0;
+}
+
+.climate-action-not-difficult-head p {
+  text-align: center;
+  font-size: 30px;
+  line-height: 48px;
+  font-weight: 700;
+}
+
+.climate-action-not-difficult-head p span {
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.climate-action-not-difficult-para-number {
+  font-weight: 500;
+  font-size: 22px;
+  color: #000000;
+  margin-bottom: 0;
+}
+
+.climate-action-not-difficult-para-head {
+  font-weight: 500;
+  font-size: 20px;
+  color: #000000;
+  margin-bottom: 0;
+}
+
+.climate-action-not-difficult-para-text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #a0a0a0;
+}
+
+.transparency-at-our-code-sec {
+  padding: 50px 0;
+  background: #fff;
+}
+
+.transparency-at-our-code-sec-head p {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 28px;
+  line-height: 45px;
+  margin-bottom: 15px !important;
+}
+
+.transparency-at-our-code-sec-head p span {
+  font-weight: 700;
+  padding: 10px;
+}
+
+.transparency-at-our-code-sec-text p {
+  text-align: center;
+}
+
+.transparency-at-our-code-sec-block,
+.transparency-at-our-code-sec-block4 {
+  background: #ffffff;
+  padding: 50px 60px;
+  height: 200px;
+  width: 100%;
+  position: relative;
+}
+
+.transparency-at-our-code-sec-block2,
+.transparency-at-our-code-sec-block4 {
+  margin-top: 1px;
+}
+
+.transparency-at-our-code-sec-block2,
+.transparency-at-our-code-sec-block3 {
+  background: #ffffff;
+  padding: 50px 60px;
+  height: 200px;
+  width: 100%;
+  position: relative;
+}
+
+.transparency-at-our-code-sec-block p,
+.transparency-at-our-code-sec-block2 p,
+.transparency-at-our-code-sec-block3 p,
+.transparency-at-our-code-sec-block4 p {
+  font-weight: 500;
+  font-size: 20px;
+  color: #202020;
+  margin-bottom: 0;
+}
+
+.climate-offsetting-projects-head p {
+  text-align: center;
+  font-size: 32px;
+  line-height: 48px;
+}
+
+.climate-offsetting-projects-head p span {
+  font-weight: 700;
+}
+
+.climate-offsetting-projects-text p {
+  text-align: left;
+  font-size: 18px;
+  color: #000000;
+}
+.climate-offseting-sec-leftblock-head {
+  font-weight: 600;
+  font-size: 29px;
+  color: #000000;
+  margin-bottom: 14px;
+}
+
+.climate-offseting-sec-leftblock-text {
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+  margin-top: 12px;
+  text-align: justify;
+}
+
+.climate-offseting-sec-rightblock-head {
+  font-weight: 600;
+  font-size: 29px;
+  color: #000000;
+  margin-bottom: 1px;
+}
+.climate-offseting-sec-rightblock-text {
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+  margin-top: 12px;
+  text-align: justify;
+}
+.our-approach-carbon-offsetting-works {
+  background: #f5f5f5;
+  padding: 80px 0;
+}
+
+.our-approach-carbon-offsetting-works .head p {
+  font-size: 32px;
+  line-height: 48px;
+}
+
+.our-approach-carbon-offsetting-works .head p span {
+  font-weight: 700;
+}
+
+.our-approach-carbon-offsetting-works .para {
+  font-weight: 500;
+  font-size: 15px;
+  color: #000000;
+}
+
+.our-approach-carbon-offsetting-works .para2 {
+  font-weight: 500;
+  font-size: 14px;
+  color: #a0a0a0;
+  margin-top: 5px;
+}
+
+.carbon-offsetting-work-block {
+  padding: 22px;
+  display: flex;
+  gap: 18px;
+  background-color: #ffffff;
+}
+
+.carbon-offsetting-work-block-head {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 36px;
+  color: #202020;
+}
+
+.carbon-offsetting-work-block-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  color: #a0a0a0;
+}
+
+.carbon-offsetting-work-block-text ul {
+  padding-left: 0px;
+}
+
+.carbon-offsetting-work-block-text ul li {
+  list-style: none;
+}
+
+.margin-top32 {
+  margin-top: 32px;
+}
+
+.carbon-offseting-work-vector3 img {
+  position: absolute;
+  left: -22px;
+}
+
+.carbon-offsetting-work-down-vector img {
+  position: absolute;
+  top: -15px;
+}
+
+.carbon-offsetting-work-down-para p {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 40px;
+  color: #000000;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.tackle-climate-change-part {
+  background-color: #ffffff;
+  margin: 180px 0px;
+  padding: 32px;
+  border-radius: 8px;
+  width: 50rem;
+  /* min-height: 292px; */
+}
+.tackle-climate-change-part .details_para {
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+.our-approach-main-sec {
+  background: url("https://minio.b120578.dev.eastus.az.svc.builder.cafe/sbucket/variants/aj0741yrb5rko20ylrwp2aa1dja2/6f7daa6c86a9bc2c53f5d0684447f253adfa8f13401d95f9d66464245ed9ff2e?response-content-disposition=inline%3B%20filename%3D%22approach-banner.jpg%22%3B%20filename%2A%3DUTF-8%27%27approach-banner.jpg&response-content-type=image%2Fjpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 192px 0px 156px 0;
+}
+
+.our-approach-main-sec-head h1 {
+  text-align: left;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 1.2;
+}
+.our-approach-main-sec-head-ns h1 {
+  text-align: center !important;
+}
+.our-approach-main-sec-head h1 span {
+  font-weight: 700;
+  padding-left: 8px;
+  font-size: 25px;
+}
+our-approach-main-sec-head_act h1 {
+  text-align: left;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 64px;
+}
+our-approach-main-sec-head_act h1 span {
+  font-weight: 700;
+  padding-left: 8px;
+  font-size: 25px;
+}
+/* .ct_not_difficult_box .ant-col.border-css-custom {
+  height: 200px;
+} */
+.ct_not_difficult_box .ant-row.ct_row_col {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+}
+.ct_row_col .ct_col_full {
+  max-width: 100%;
+  height: 100%;
+}
+@media screen and (min-width: 360px) and (max-width: 670px) {
+  .why-climate-change-sec-in img {
+    width: 110px !important;
+    height: 110px !important;
+  }
+
+  .our-approach-main-sec-head-mobile {
+    text-align: center !important;
+  }
+}
+.our-approach-main-sec-text p {
+  text-align: center;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  color: #404040;
+}
+.our-approach-main-sec-text-fliht p {
+  text-align: center;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  color: #404040;
+  padding-top: 10px;
+}
+
+.our-approach-sec-desc {
+  text-align: center;
+  font-weight: 700;
+  line-height: 28px;
+  color: #404040;
+  font-size: 21px;
+  padding-top: 38px;
+}
+@media (max-width: 362px) {
+  .our-approach-sec-desc-padding-ns {
+    padding-top: 70px !important;
+  }
+}
+@media (max-width: 367px) {
+  .our-approach-sec-desc-flight-padding-ns {
+    padding-top: 67px !important;
+  }
+}
+
+.offset-mobile-ns {
+  padding-left: 5px;
+  color: rgb(136, 174, 71);
+}
+.offset-mobile-tips-ns {
+  padding-left: 5px;
+  color: rgb(136, 174, 71);
+  font-size: 25px;
+}
+.climate-project-img {
+  padding: 25px 0px 25px 0px;
+}
+
+.climate-project-img img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.climate-project-img-left {
+  padding: 25px 18px 25px 0px;
+}
+
+.climate-project-img-left img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.climate-project-img-left2 {
+  padding: 25px 0px 25px 0px;
+}
+
+.climate-project-img-left2 img {
+  width: 100%;
+  height: 385px !important;
+  border-radius: 8px 0px 0px 8px;
+}
+
+.climate-project-img-left3 {
+  padding: 25px 0px 25px 0px;
+}
+
+.climate-project-img-left3 img {
+  width: 100%;
+  border-radius: 0px 8px 8px 0px;
+  height: 385px !important;
+}
+
+.carbon-setting-imgs {
+  display: flex;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+}
+.ant-row {
+ 
+  align-items: center;
+}
+@media screen and (max-width: 576px) {
+  .carbon-setting-imgs {
+    display: flex;
+    align-items: center;
+  }
+  .carbon-app-reduce-emissions-head {
+    margin-bottom: 14px;
+  }
+  .carbon-app-reduce-emissions-head > h3 {
+    font-size: 16px;
+    line-height: 24px;
+    display: block;
+    font-weight: 500;
+  }
+  .carbon-app-reduce-emissions {
+    padding: 24px 0px 37px 0px !important;
+  }
+  .carbon_approach_emission {
+    padding-top: 0px !important;
+    margin-bottom: 18px !important;
+  }
+  .ct_pad_30 {
+    padding: 30px;
+  }
+  .padding-b50 {
+    padding-bottom: 0px;
+  }
+  .carbon_approach_emission .description {
+    margin-bottom: 0px;
+  }
+  .carbon_approach_emission .description {
+    margin-bottom: 0px !important;
+  }
+  .carbon-approach-emission-blocks img {
+    border: 1px solid #e7e7e7;
+    border-radius: 8px;
+    height: 187px;
+  }
+  .carbon_approach_emission .label {
+    margin-bottom: 0px !important;
+  }
+  .our-approach-carbon-offsetting-works {
+    padding: 27px 0 38px;
+  }
+  .our-approach-carbon-offsetting-works .head p {
+    text-align: start;
+    margin-bottom: 13px;
+    text-transform: uppercase;
+    font-size: 20px !important;
+  }
+  .our-approach-carbon-offsetting-works .para {
+    font-weight: 400;
+    color: #565656;
+  }
+  .our-approach-carbon-offsetting-works .para2 {
+    color: #565656;
+    font-weight: 400;
+    margin-top: 25px;
+  }
+  .carbon-offsetting-work-block {
+    padding: 11px 16px 10px 14px;
+    display: flex;
+    grid-gap: 10%;
+    grid-gap: 7%;
+    gap: 7%;
+    border-radius: 8px;
+  }
+  .carbon-offsetting-work-block .bgImg img {
+    width: 40px;
+    padding: 8px;
+  }
+  .carbon-offsetting-work-block-head {
+    font-weight: 400;
+    font-size: 14px;
+    width: 100%;
+    line-height: 181%;
+    margin-bottom: 0px;
+    color: #1b1b1b;
+  }
+  .our-approach-devider {
+    display: none;
+  }
+  .carbon-offsetting-work-block-text {
+    font-size: 14px;
+    line-height: inherit;
+    margin-top: 11px;
+  }
+  .carbon-offsetting-work-block-arrow {
+    display: none;
+  }
+  .sideArrowDown {
+    margin: 17px 0px 20px;
+  }
+  .sideArrowDown img {
+    margin: 17px 0px 20px;
+    width: 40px !important;
+    transform: rotate(90deg);
+  }
+  .transparency-at-our-code-sec {
+    padding: 38px 0 54px;
+  }
+  .transparency-at-our-code-sec-head p {
+    font-size: 18px !important;
+    line-height: 27px !important;
+  }
+  .approach-text-center {
+    margin-bottom: 0px;
+  }
+  .ct_why_climate_mob p.climate-mobile-even-text {
+    padding-top: 0px;
+}
+.climate-action-not-difficult.ct_not_difficult_box .ant-col.ant-col-md-3.ant-col-lg-3 {
+  max-width: 60px !important;
+  width: 60px  !important;
+}
+.ct_not_difficult_box p.climate-action-not-difficult-para-number {
+  font-size: 16px !important;
+}
+}
+@media screen and (min-width: 577px) {
+  .carbon_approach_emission .description {
+    margin-top: 39px;
+  }
+  .carbon-offsetting-work-arrow {
+    display: none;
+  }
+  .sideArrowDown {
+    margin: 64px 0;
+  }
+  .sideArrowDown-block {
+    margin: 92px 0;
+  }
+  .approach-text-center {
+    margin-bottom: 24px;
+  }
+  .approach-text-center p {
+    text-transform: uppercase;
+    font-size: 20px;
+  }
+  .our-approach-carbon-offsetting-works .head p {
+    display: flex;
+    flex-direction: column;
+  }
+  
+}
+@media screen and (min-width: 577px) and (max-width: 768px) {
+  .sideArrow,
+  .sideArrowDown {
+    display: none;
+  }
+}
+.for-indv-text-home-btn button {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 16px;
+  height: 68px;
+}
+
+.for-buss-text-home-btn button {
+  color: #202020;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  height: 68px;
+}
+
+.carbon_approach_emission {
+  padding: 10px 0px 0px 0px;
+}
+
+.carbon_approach_emission .label {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+.carbon_approach_emission .description {
+  color: #a0a0a0;
+  font-size: 15px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.carbon-action-sec {
+  margin-bottom: 106px;
+}
+
+.carbon-action-sec-head {
+  font-size: 24px !important;
+  text-align: center;
+  margin: 48px 0;
+}
+
+.carbon-action-sec-head span {
+  font-weight: 700;
+  font-size: 28px;
+}
+.color-green {
+  color: #88ae47 !important;
+}
+.color-green-no {
+  color: #88ae47 !important;
+  text-decoration: underline;
+}
+.climate_no {
+  margin-top: 12px;
+}
+.climate_no p {
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.carbon-action-sec-text1 p {
+  font-weight: 600;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.carbon-action-sec-text2 p {
+  font-weight: 500;
+  font-size: 18px;
+  /* margin-top: 48px; */
+}
+
+.carbon-action-sec-text3 p {
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.carbon-action-sec-text4 p {
+  font-weight: 500;
+  font-size: 18px;
+  margin-top: 45px;
+}
+
+.dashboard_img_sec {
+  display: flex;
+  height: 50px;
+}
+
+.transparency-at-our-code-sec-block p,
+.transparency-at-our-code-sec-block2 p,
+.transparency-at-our-code-sec-block3 p,
+.transparency-at-our-code-sec-block4 p {
+  padding-left: 24px;
+}
+
+.class_hove1 {
+  cursor: pointer;
+  background: black;
+}
+.class_hove1_image {
+  display: none !important;
+}
+.class_hove1 :hover {
+  background: white;
+}
+.class_hove1:hover .class_hove1_image {
+  display: block !important;
+}
+.our-approach-main-sec-head .climate_change {
+  font-weight: 700;
+  padding-left: 8px;
+  font-size: 48px;
+}
+.sideArrowDown-blue {
+  margin: 24px 0;
+}
+.sideArrowDown-green img {
+  transform: rotate(90deg);
+  width: 125px;
+}
+.sideArrow-green-image img {
+  transform: rotate(180deg);
+}
+.carbon-offsetting-work-block .bgImg {
+  max-width: 40px;
+  width: 100%;
+  height: 40px;
+  margin-top: 11px;
+}
+.indv-privacy-sec-ns p {
+  color: rgba(0, 0, 0, 0.85);
+}
+.indv-privacy-sec-ns li {
+  color: rgba(0, 0, 0, 0.85);
+  text-align: justify;
+}
+.term-condition-para-txt-ns span {
+  font-weight: 600 !important;
+}
+@media only screen and (max-width: 1399px) {
+  .carbon_emission .label {
+    font-size: 19px;
+  }
+}
+@media screen and (min-width: 360px) and (max-width: 670px) {
+  .carbon-app-bann-row h1 {
+    text-align: center;
+    padding-top: 10px;
+  }
+}
+@media screen and (min-width: 577px) and (max-width: 768px) {
+  .indv-dash-order-table table {
+    font-size: 12px;
+  }
+  .indv-dash-order-table table tbody > tr > td > img {
+    height: 80px;
+    width: 39px;
+  }
+  .indv-dash-order-table-img {
+    padding: 10px 10px 10px 10px !important;
+  }
+}
+@media screen and (min-width: 577px) and (max-width: 992px) {
+  .indv-dash-order-table table > thead > tr > th {
+    padding: 13px 6px;
+  }
+  .indv-dash-order-table table tbody > tr > td {
+    padding: 13px 6px;
+  }
+}
+@media screen and (min-width: 360px) and (max-width: 1200px) {
+  .indv-dash-order-history-main {
+    height: fit-content !important;
+  }
+  .indv-dash-order-table-main {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+}
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+  .indv-dash-order-table table > thead > tr > th {
+    padding: 9px 9px;
+  }
+  .indv-dash-order-table table tbody > tr > td {
+    padding: 9px 9px;
+  }
+  .indv-dash-order-table table {
+    font-size: 13px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1366px) {
+  .transparency-at-our-code-sec-block,
+  .transparency-at-our-code-sec-block4 {
+    height: 200px !important;
+  }
+  .transparency-at-our-code-sec-block2,
+  .transparency-at-our-code-sec-block3 {
+    height: 200px !important;
+  }
+  .carbon-action-sec-text1 p {
+    margin-bottom: 46px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .our-approach-main-sec-head .climate_change {
+    font-weight: 700;
+    padding-left: 8px;
+    font-size: 24px;
+  }
+  .our-approach-main-sec-head h1 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 48px;
+  }
+  .tackle-climate-change-part {
+    width: auto;
+  }
+  .border-css-custom {
+    border: none !important;
+  }
+  .text-align-container-climate-ns {
+    text-align: center !important;
+  }
+  @media (max-width: 768px) {
+    .climate-mobile-container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+      padding-left: 5px;
+      height: 250px;
+    }
+    .climate-mobile-container p {
+      font-weight: 500;
+      font-size: 15px;
+      font-family: "Poppins", sans-serif;
+      color: gray;
+    }
+    .climate-mobile-even-text {
+      padding-top: 20px;
+      color: #88ae47 !important;
+      height: 30px;
+    }
+    .climate-mobile-not-even-text {
+      color: gray;
+    }
+
+    .text-width-ns {
+      width: 150px !important;
+    }
+    .text-align-climate-ns {
+      text-align: justify !important;
+      padding-left: 18px;
+      padding-right: 20px;
+    }
+  }
+  .climate-action-image {
+    margin-right: 20px;
+  }
+  .transparency-at-our-code-sec-head p {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 22px;
+    line-height: 40px;
+    margin-bottom: 15px !important;
+  }
+  .climate-offsetting-projects-head p {
+    text-align: center;
+    font-size: 26px;
+    line-height: 40px;
+  }
+  .climate-offsetting-projects-sec {
+    margin-top: 16px;
+  }
+  .climate-offseting-sec-leftblock-head {
+    font-weight: 600;
+    font-size: 26px;
+    color: #000000;
+    margin-bottom: 14px;
+  }
+  .climate-project-img-left {
+    padding: 25px 0px 25px 0px;
+  }
+  .climate-offseting-sec-rightblock-head {
+    font-weight: 600;
+    font-size: 23px;
+    color: #000000;
+    margin-bottom: 1px;
+  }
+  .climate-offseting-sec-leftblock-head {
+    font-weight: 600;
+    font-size: 23px;
+    color: #000000;
+    margin-bottom: 14px;
+  }
+  .climate-action-not-difficult-head p {
+    text-align: center;
+    font-size: 24px;
+    line-height: 40px;
+    font-weight: 700;
+  }
+  .our-approach-carbon-offsetting-works .head p {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .our-approach-main-sec {
+    padding: 115px 0px 90px 0;
+  }
+}
+@media screen and (min-width: 360px) and (max-width: 576px) {
+  .my-subscription-wrapper {
+    margin: 16px;
+    padding: 16px;
+    border: 1px solid #cbcbcb;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 0px rgb(171 168 168 / 51%);
+  }
+  .my-subscription-card {
+    display: flex;
+    justify-content: space-between;
+  }
+  .my-subscription-card-name {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+
+  .my-subscription-card-subtext {
+    padding-right: 3px;
+    height: 22px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    color: #90a0b7;
+  }
+  .my-subscription-card-total_offset {
+    align-items: center;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 23px;
+    display: flex;
+    flex-direction: column;
+    padding: 1px 10px;
+    height: 24px;
+    background: #9dbd4f;
+    border-radius: 19px;
+    margin: 5px 0px;
+  }
+  .my-subscription-card-date {
+    display: flex;
+  }
+  .my-subscription-card-amount_invested {
+    font-size: 12px;
+    line-height: 14px;
+  }
+  .my-subscription-card-table-data {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+  }
+  .my-subscription-action {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+  }
+  h4.my-subscription-card-project_type {
+    font-size: 14px;
+    margin: 0;
+  }
+  .my-subscription-image {
+    width: 25px;
+    height: 25px;
+  }
+  p.my-subscription-title {
+    padding-bottom: 8px;
+  }
+  .my-subscription-card-header {
+    font-size: 12px;
+    font-weight: 500;
+  }
+  span.my-subscription-card-frequency-value {
+    font-size: 11px;
+  }
+
+  .ct_not_difficult_box .ant-col {
+    margin-bottom: 10px;
+}
+
+}
+@media screen and (min-width: 360px) and (max-width: 576px) {
+  .indv-dash-order-table table {
+    font-size: 8px !important;
+  }
+  .indv-dash-order-table table p {
+    font-size: 8px !important;
+  }
+  .indv-dash-order-table table > thead > tr > th {
+    padding: 5px 1px;
+  }
+  .indv-dash-order-table table tbody > tr > td {
+    padding: 5px 1px;
+  }
+  .indv-dash-order-table table tbody > tr > td > img {
+    height: 42px;
+    width: 22px;
+  }
+  .indv-dash-order-table-img {
+    padding: 5px !important;
+  }
+  .inv-order-dash-pagin {
+    font-size: 9px;
+  }
+  .ns-page {
+    padding-right: 15px;
+    padding-bottom: 15px;
+  }
+  .inv-order-dash-pagin .page-item:not(:first-child) .page-link {
+    margin-left: -8px;
+  }
+  .indv-order-history-texts {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+  .indv-order-history-texts-heading {
+    font-size: 13px !important;
+  }
+  .indv-order-history-texts-firstblock {
+    font-size: 14px !important;
+  }
+  .indv-order-history-texts-secondblock {
+    font-size: 11px !important;
+  }
+  .indv-order-history-block {
+    display: flex;
+    flex-direction: column;
+  }
+  .tackle-climate-change-part {
+    margin: 120px 0 140px 0;
+  }
+  .carbon-offsetting-work-block .bgImg {
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+  }
+  .carbon-approach-emission-sec {
+    padding-right: 16px !important;
+  }
+  .carbon-app-reduce-emissions-main > div {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+  .carbon-app-reduce-emissions-head > h3 {
+    text-align: center;
+    margin-bottom: 0px;
+  }
+  .carbon_approach_emission .description {
+    font-size: 14px;
+  }
+  .transparency-at-our-code-sec-approach {
+    padding: 38px 0 39px !important;
+  }
+  .approach-img-sec p {
+    padding-left: 0px;
+  }
+  .approach-us-end-sec-block2 > div {
+    padding: 0px 7px !important;
+  }
+  .transparency-at-our-code-sec-head-main p {
+    text-align: start;
+  }
+}
+@media screen and (min-width: 577px) {
+  .approach-img-sec p {
+    padding-left: 0px;
+  }
+
+ 
+}
+
+
+@media screen and (max-width:414px) {
+  .ant-row.ct_para_cnt {
+    height: 0px;
+    overflow: hidden;
+    transition: 0.4s linear;
+}
+.ct_accordian_tab {
+  text-align: left;
+  padding-inline: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  padding-top: 0px !important;
+  margin-top: 74px;
+  padding-block: 9px !important;
+  margin-inline: 25px;
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow:0px 0px 25px rgba(0,0,0,0.09);
+  font-size: 16px;
+  border: 1px solid #3333333b;
+  color: #88ae47;
+  margin-top: 90px;
+}
+.ct_margin_top_25{
+  margin-top:25px !important;
+}
+.ct_margin_right1_0{
+  margin-right: 0px;
+}
+.carbon-offset-onetime-life-sec-card-dropdown{
+  width:100% !important;
+  padding-bottom: 24px !important;
+}
+
+.ct_accordian_tab button {
+  border: 0px;
+  background-color: #88ae47;
+  color: #ffff !important;
+  font-size: 14px;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+}
+.ct_accordion_item .Tool_user_number {
+  margin-left: 13px;
+}
+.ct_tool_user_contents p{
+  text-align: left;
+}
+
+
+.ct_accordion_item {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+  padding: 10px 0px;
+  border: 1px solid #88ae47;
+  margin-inline: 0px !important;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+  margin-bottom:45px;
+  margin-inline: 13px !important;
+}
+.ct_accordion_item > .ant-col {
+  padding-left: 10px !important;
+}
+.ct_order_box {
+  margin-top: 25px !important;
+}
+.ct_order_box .ant-card-head {
+  margin-top: 0px !important;
+}
+.ct_order_box .ns-order-summary-header {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.ct_card_flex_div .ant-col {
+  max-width: fit-content;
+  margin-bottom:15px
+}
+}
+
+
+.ct_inner_gift_card_main {
+  display: block !important;
+}
+.ct_inner_gift_card_main .ct_bottom_cnt{
+  display: block;
+}
+
+.ct_inner_gift_card_main .ct_bottom_cnt .ct_bottom_item:first-child{
+width: 100%;
+}
+.ct_inner_gift_card_main .ct_bottom_cnt {
+  display: block;
+  margin-top: 0px !important;
+}
+.ct_inner_gift_card_main .ct_head_logo img {
+  width: 100px;
+  object-fit: contain;
+}
+.ct_inner_gift_card_main .ct_head_logo {
+  text-align: center;
+  margin-bottom: 15px;
+}
+.ct_align_unset{
+  align-items: unset  !important;
+}
+.ct_inner_gift_card_main .ct_head_flex{
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: space-between; */
+  /* flex-wrap: wrap; */
+  margin-bottom: 20px;
+}
+.ct_inner_gift_card_main .ct_gift_short_head h5{
+  text-align: center;
+}
+.ct_inner_gift_card_main .ct_gift_bgimg12 img {
+  height: 120px;
+}
+.ct_inner_gift_card_main .ct_gift_title {
+  text-align: center;
+}
+.ct_inner_gift_card_main {
+  border-radius: 10px;
+  margin-bottom: 24px  !important;
+  height: 100%;
+}
+.ct_inner_gift_card_main .ct_gift_bgimg12 {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 50% 50%;
+  align-self: end;
+}
+.ct_inner_gift_card_main .ct_gift_left{
+  padding-bottom: 0px !important;
+}
+@media screen and (max-width:991px){
+  #order-summary-mobile{
+    margin-top: 24px!important;
+  }
+}
+@media screen and (max-width:575px) {
+  .ct_inner_gift_card_main .ct_head_flex{
+    padding-left: 15px;
+  }
+  .ct_inner_gift_card_main .ct_gift_bgimg12 {
+    display: block;
+  }
+}

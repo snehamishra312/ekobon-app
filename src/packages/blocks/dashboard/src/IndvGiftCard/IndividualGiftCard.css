@@ -1,0 +1,617 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300;400;500;600;700&display=swap');
+.Indivdual_Project_MiddleContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 29px;
+}
+
+.Individual_Project_MidScreen_Main {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.ct_gift_card_box .offset-summary-rightimg-sub-sec img {
+  width: 100%;
+  /* height: 120px; */
+  object-fit: cover;
+  object-position: top;
+}
+.ct_gift_card_box .offset-summary-rightimg-sub-sec {
+  /* position: relative; */
+  width: 120px;
+}
+
+.ct_small_gift_card .ct_giftcard_select {
+  height: 146px !important;
+}
+.ct_small_gift_card {
+  height: 260px !important;
+}
+.ct_giftcard_select {
+  background-color: #f0f3e8;
+  position: relative;
+  height: 180px;
+} 
+.ct_giftcard_select > .offset-summary-rightimg-sec {
+  position: initial !important;
+}
+
+.ct_empty_card_div {
+  text-align: center;
+  margin: auto;
+  font-weight: 600;
+  font-size: 18px;
+  margin-top: 30px;
+} */
+.treeplant-buy-btn-ns {
+  padding-left: 0px !important;
+}
+.Individual_Project_first_block {
+  /* width: 73%; */
+  height: 212px;
+  background-color: var(--color-white);
+  /* margin: 9px 10px; */
+  border-radius: 22px;
+}
+
+.first_Project_block1 {
+  display: flex;
+  width: 100%;
+  height: 212px;
+  box-shadow: 0px 0px 16px -3px rgb(0 0 0 / 51%);
+  border-radius: 22px;
+}
+
+
+/* gift card css S */
+
+.ct_certificate_head {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 50px;
+  font-family: 'Noto Serif SC', serif;
+}
+
+
+.ct_gift_title h5{
+font-family: 'Noto Serif Bengali', serif;
+font-weight: 500;
+
+}
+.ct_inner_gift_card_main{
+  grid-template-columns: auto !important;
+  display: grid  !important;
+}
+.ct_gift_card_main {
+  display: grid;
+  grid-template-columns: 59% 39%;
+  align-items: center;
+  gap: 2%;
+  background-color: #bbcdb3;
+  overflow: hidden;
+}
+
+.ct_gift_bgimg12 img {
+  width: 100%;
+  height: 230px;
+  object-fit: cover;
+}
+.ct_gift_bgimg2 {
+  /* background-image: url(gift_wrap.png); */
+  background-position: right;
+}
+.ct_gift_left {
+  padding: 20px 20px;
+  position: relative;
+  z-index: 1;
+}
+.ct_bottom_cnt {
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 15px;
+}
+.ct_Comforter_font.ct_font_75 {
+  font-size: 110px;
+}
+.ct_big_gift_middle .ct_middle_item {
+  width: 60%;
+}
+.ct_certificate_head.ct_font_30 {
+  font-size: 18px;
+}
+.ct_flex_between {
+  justify-content: space-between !important;
+  display: grid;
+  grid-template-columns: 40% 60%;
+}
+.ct_middle_cnt {
+  margin-top: 15px;
+}
+.ct_middle_item {
+  display: flex;
+  margin-bottom: 10px;
+font-family: 'Noto Serif SC', serif;
+}
+
+.ct_bottom_item img {
+  width: 130px;
+  object-fit: contain;
+}
+.ct_90_width{
+  width: 90%;
+  margin: auto;
+}
+
+.ct_bottom_item p {
+  margin-bottom: 0px;
+  font-weight: 600;
+  font-size: 14px;
+  color: #333;
+  letter-spacing: 1px;
+  font-family: 'Noto Serif SC', serif;
+  text-align: center;
+}
+.ct_bottom_item p a {
+  color: #333;
+  font-size: 12px;
+  font-family: 'Noto Serif SC', serif;
+}
+.ct_middle_item {
+  padding: 10px;
+  background-color: #fcf8d5;
+  width: 75%;
+  margin-left: auto;
+}
+.ct_bottom_cnt{
+margin-top: 30px;
+}
+.ct_middle_item h5 {
+  font-weight: 600;
+}
+.ct_middle_item h5 + h5{
+font-weight: 500;
+}
+.ct_middle_item h5:first-child {
+  width: 50%;
+  flex: 1;
+}
+
+.ct_grey_bg{
+background-color: #f5f5f5;
+}
+.ct_light_bg {
+  background-color: #ddeaa2;
+  padding: 10px;
+}
+.ct_light_bg h5{
+margin-bottom: 0px;
+}
+.ct_gift_bgimg img{
+display: none;
+}
+.ct_Comforter_font {
+  font-family: 'Comforter', cursive;
+  font-size: 35px;
+  font-weight: 200;
+}
+.ct_gift_short_head h5 {
+  text-align: end;
+  margin-bottom: 15px;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  letter-spacing: 2px;
+  font-weight: 500 !important;
+}
+.ct_bottom_cnt .ct_bottom_item:first-child {
+  width: 35%;
+}
+.ct_middle_item h5 {
+  margin-bottom: 0px;
+  font-size: 15px;
+}
+.ct_gift_bgimg13{
+ background-image: url(../../assets/Flights.jpeg);
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  background-repeat: no-repeat;
+  z-index: 9;
+}
+
+.ct_gift_bgimg_tree{
+   background-image: url(../../assets/NaureBasedSolutions.jpg);
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  background-repeat: no-repeat;
+  z-index: 9;
+}
+.ct_middle_item h5 {
+  font-family: 'Noto Serif SC', serif;
+}
+
+@media screen and (max-width:1399px) and (min-width:992px) {
+.ct_climet_bg_1, .ct_climet_bg_2 {
+  height: 317px;
+}
+
+}
+@media screen and (max-width:767px) and (min-width:577px) {
+  .ct_big_gift_middle.ct_mob_90 .ct_middle_item {
+    width: 90%;
+}
+  
+  }
+
+
+@media screen and (max-width:991px){
+.ct_gift_card_main {
+  flex-direction: column;
+  display: flex;
+  row-gap: 20px;
+}
+.ct_gift_bgimg12 img {
+height: 160px;
+}
+.ct_gift_bgimg13 ,.ct_gift_bgimg_tree{
+height: 200px;
+}
+
+}
+@media screen and (max-width:575px){
+.ct_middle_item {
+
+  width: 100%;
+
+}
+.ct_middle_item h5:first-child {
+  width: 60%;
+}
+
+}
+
+
+
+@media screen and (min-width: 360px) and (max-width: 576px) {
+  .gift-card-second-text {
+    margin: 25px 0 0 0;
+  }
+  .gift-card-first-text {
+    height: 98% !important;
+  }
+}
+.first_Project_block1_Main {
+  margin: 37px 17px;
+}
+
+.first_Project_block_head {
+  font-size: 22px;
+  font-family: "Roboto-Bold";
+}
+
+.first_Project_block_P {
+  color: #969696;
+  text-align: justify;
+}
+
+.individual_first_project_square {
+  background-color: var(--color-individual-secondsquare);
+  box-shadow: 0px 0px 16px -3px rgb(0 0 0 / 51%);
+}
+
+.indv_project_squareT {
+  color: var(--color-individual-secondsquareT);
+  font-size: 16px !important;
+}
+
+.individual_first_projectP {
+  display: flex;
+}
+
+.first_block_projectT {
+  color: var(--color-individual-project-black);
+}
+
+/* --------- */
+.gift_card {
+  height: 285px;
+  width: 94%;
+  box-shadow: 0px 0px 16px -3px rgb(0 0 0 / 51%);
+  border-radius: 15px;
+  margin-top: 15px;
+  cursor: pointer;
+}
+.gift_card_inner_text {
+  width: 96%;
+  box-shadow: none;
+  height: 100px;
+  padding: 5px 6px !important;
+}
+
+.gift_card_inner_text_upperpart {
+  width: 92%;
+  /* margin: 14px; */
+  height: 150px;
+  position: absolute;
+  top: 0;
+  margin-top: 12px;
+  padding: 0px !important;
+  /* border: 1px solid; */
+  border-radius: 7px !important;
+}
+
+.gift_card_first_block {
+  width: 100px !important;
+  height: 148px !important;
+}
+
+.gift_card_amountP {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  left: 6%;
+  top: 27%;
+  align-items: center;
+}
+
+.gift_card_amountP1 {
+  color: #b3cacd !important;
+  font-size: bold;
+  font-family: "Roboto-Bold";
+}
+
+.gift_card_amountP2 {
+  color: #b3cacd !important;
+  font-family: "Roboto-Bold";
+  font-size: 24px !important;
+}
+.gift_card_logo_img {
+  width: 45px !important;
+  height: 12px !important;
+}
+.giftcar_text {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.giftcar_text_innertext {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.giftcar_text_header {
+  width: 64%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.giftp {
+  height: 24px;
+  font-size: 22px !important;
+  color: #93bbc5;
+  font-family: "Robot-bold";
+}
+.cardp {
+  height: 55px;
+  font-size: 40px !important;
+  color: #93bbc5;
+  font-weight: 800;
+  font-family: "Robot-bold";
+}
+.gift_2000 {
+  color: #8bac47 !important;
+}
+.gift_4000 {
+  color: #e2bd75 !important;
+}
+.gift_Custom {
+  color: #070707 !important;
+}
+.order_s_gift_card {
+  width: 100%;
+  height: 150px;
+  border: 1px solid #f0f3e8;
+  position: relative;
+  background-color: #f0f3e8;
+}
+.order_tree_gift_card {
+  height: 175px;
+  border: 1px solid;
+  position: relative;
+  border-radius: 4px;
+}
+.order_tree_gift_card .gift_card_first_block {
+  height: 175px !important;
+}
+.order_s_gift_card_p {
+  left: 15px;
+  top: 40px;
+}
+
+.gift_orderP {
+  font-size: 15px !important;
+  width: 100%;
+  padding: 0 !important;
+  margin: 0 !important;
+  height: 18px;
+}
+.gift_orderp1 {
+  font-size: 20px !important;
+  font-weight: bold !important;
+  height: 24px;
+}
+.gift-trees {
+  color: #9fc75c;
+}
+
+.gift_orderp2 {
+  font-size: 12px !important;
+  font-family: "Roboto-Bold";
+}
+.gift_orderp3 {
+  padding-top: 5px;
+  font-size: 12px !important;
+  font-weight: 600 !important;
+}
+
+.order_summry_text {
+  align-items: normal;
+}
+.order_summry_btn {
+  background-color: var(--color-black);
+  color: var(--color-white);
+  border-radius: 10px;
+  font-size: 10px;
+}
+
+.order_summry_logo {
+  position: absolute;
+  right: 6px;
+  bottom: 0;
+}
+.gift_card_Riboon_img {
+  width: 35px !important;
+  height: 35px !important;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.ekobon_logo_order_summary {
+  width: 45px;
+}
+
+.order-summary-newgift-card-sec {
+  background-color: #f0f3e8;
+}
+
+.order-summary-newgift-card-sec p {
+  margin-bottom: 0;
+}
+
+.offset-summary-rightimg-sec {
+  position: relative;
+}
+
+.offset-summary-rightimg-sub-sec {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.offset-summary-rightimg-sub-sec img {
+  width: 160px;
+}
+
+.new-giftcard-name p {
+  font-size: 18px !important;
+  color: #5a5a5a;
+  margin-top: 14px;
+}
+
+.new-giftcard-desc p {
+  font-size: 16px !important;
+  color: #b7b7b7 !important;
+}
+
+.new-giftcard-value p {
+  font-size: 15px !important;
+  color: #5a5a5a;
+  margin-top: 12px;
+}
+
+.new-giftcard-amount p {
+  font-size: 20px !important;
+  color: #5a5a5a;
+}
+
+.new-giftcard-btn button {
+  background-color: #4d7016 !important;
+  color: #ffffff !important;
+  border: none !important;
+  margin-top: 8px;
+  padding: 5px 12px;
+  border-radius: 5px;
+  font-size: 12px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.gif-card-sec-value-new p {
+  margin-top: 36px !important;
+}
+
+.gif-card-sec-amount-new p {
+  padding-bottom: 36px !important;
+}
+.order-summary-or {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media screen and (min-width: 370px) and (max-width: 768px) {
+  .individual_first_project_square {
+    margin: 25px 0 0 0;
+  }
+  .business_toolkit_block1 h2 {
+    font-size: 18px;
+  }
+  .business_toolkit_block1 .first_Project_block_P {
+    font-size: 12px;
+  }
+  .first_Project_block1_Main {
+    margin: 15px 10px;
+  }
+  .Individual_Project_first_block {
+    height: 100%;
+  }
+  .first_Project_block1 {
+    height: 100%;
+  }
+}
+@media screen and (min-width: 360px) and (max-width: 576px) {
+  .order-summary-or {
+    justify-content: center !important;
+    width: 100% !important;
+    margin: 0px 0 0px 0 !important;
+  }
+  .gift-card-summary-img img {
+    width: 100px;
+  }
+  .giftcard-redeem-button button {
+    width: 106px;
+    font-size: 10px;
+    margin-left: 0px;
+  }
+  .ct_gift_left {
+    padding: 20px 0px;
+    width: 90%;
+}
+.ct_bottom_item p a {
+
+  font-size: 10px;
+}
+.ct_big_gift_middle .ct_middle_item {
+  width: 100%;
+}
+.ct_middle_cnt.ct_big_gift_middle{
+  margin-top: 30px;
+}
+.ct_flex_between{
+  display: flex;
+  justify-content: space-between;
+}
+.ct_Comforter_font.ct_font_75 {
+  font-size: 100px;
+}
+}

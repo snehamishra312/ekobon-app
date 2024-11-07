@@ -1,0 +1,272 @@
+.individual-tour-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+.indv-tour-begin-sec {
+  z-index: 99;
+}
+
+.tour-modal-close-btn {
+  padding: 0 !important;
+  background: none !important;
+  width: unset !important;
+}
+
+.individual-tour-container .individual-tour-bg-image {
+  width: 100%;
+  /* height: 100vh; */
+}
+
+.text-center {
+  text-align: center;
+}
+
+.individual-tour-sub {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: block;
+}
+
+.individual-tour-modal {
+  max-width: 100%;
+  padding: 20px 50px;
+  border-radius: 15px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 999;
+  background: #ffff;
+  width: 425px;
+  /* height: 225px; */
+}
+
+.individual-tour-arrow:before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  z-index: 9999;
+}
+
+.individual-tour1 {
+  top: 163px;
+  left: 74%;
+}
+
+.individual-tour1:before {
+  left: -15px;
+  bottom: 45%;
+  transform: rotate(270deg);
+}
+
+.individual-tour2 {
+  top: 170px;
+  left: 60%;
+}
+
+.individual-tour2:before,
+.individual-tour3:before,
+.individual-tour4:before,
+.individual-tour7:before {
+  right: 50%;
+  bottom: -10px;
+  transform: rotate(180deg);
+}
+
+.individual-tour8:before {
+  right: -3%;
+  bottom: 95px;
+  transform: rotate(90deg);
+}
+
+.individual-tour3 {
+  top: 180px;
+  left: 33%;
+}
+
+.individual-tour4 {
+  left: 60%;
+  top: 48%;
+}
+
+.individual-tour5 {
+  top: 54%;
+  left: 40%;
+}
+
+.individual-tour5:before {
+  left: 50%;
+  top: -8px;
+  transform: rotate(0deg);
+}
+
+.individual-tour6:before,
+.individual-tour9:before,
+.individual-tourend:before {
+  content: unset;
+}
+
+.individual-tour7 {
+  top: 33%;
+  left: 40%;
+}
+
+.individual-tour8 {
+  top: 105%;
+  right: 42%;
+  left: unset;
+}
+
+.individual-tour10 {
+  top: 24%;
+  left: unset;
+  right: -10%;
+}
+
+.individual-tour10:before {
+  left: 59%;
+  top: -8px;
+  transform: rotate(0deg);
+}
+
+.individual-tour-modal-header {
+  position: relative;
+  font-size: 18px;
+  font-family: "Roboto-Bold";
+}
+
+.individual-tour-modal-cross {
+  position: absolute;
+  top: 0;
+  right: -10px;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.individual-tour-modal-body {
+  font-weight: 600;
+  color: #ababab;
+  font-size: 15px;
+  padding: 15px 0;
+}
+
+.individual-tour-green-btn,
+.individual-tour-light-btn {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-family: "Roboto-Bold";
+  font-size: 16px;
+}
+
+.tour-width-btn {
+  width: 100% !important;
+  padding: 10px;
+}
+
+.individual-tour-green-btn {
+  background-color: #89aa51;
+  width: 100px;
+}
+
+.individual-tour-light-btn {
+  color: rgb(14, 14, 14);
+
+  width: 100px;
+}
+
+.individual-tour-modal-footer {
+  margin-top: 10px;
+}
+
+.infotext {
+  color: #ababab;
+  font-size: 16px;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .individual-tour-modal {
+    width: 370px;
+    padding: 10px 30px;
+  }
+  .individual-tour1 {
+    top: 120px;
+    left: 80%;
+  }
+  .individual-tour2 {
+    top: 98px;
+    left: 60%;
+  }
+  .individual-tour3 {
+    top: 100px;
+  }
+  .individual-tour4 {
+    top: 28%;
+  }
+  .individual-tour5 {
+    top: 40%;
+  }
+  .individual-tour7 {
+    top: 18%;
+  }
+  .individual-tour8 {
+    top: 73%;
+    right: 40%;
+  }
+  .individual-tour10:before {
+    left: 80%;
+  }
+  .individual-tour10 {
+    top: 19%;
+    right: -9%;
+  }
+}
+@media (min-width: 768px) and (max-width: 1366px) {
+  .individual-tour1 {
+    left: 76%;
+  }
+  .individual-tour2 {
+    top: 130px;
+  }
+  .individual-tour3 {
+    top: 150px;
+    left: 35%;
+  }
+  .individual-tour4 {
+    top: 47%;
+  }
+  .individual-tour5 {
+    top: 56%;
+    left: 39%;
+  }
+  .individual-tour7 {
+    top: 32%;
+  }
+  .individual-tour8 {
+    top: 112%;
+  }
+  .individual-tour10:before {
+    left: 80%;
+  }
+  .individual-tour10 {
+    top: 25%;
+    right: -6%;
+  }
+}

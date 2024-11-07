@@ -1,0 +1,193 @@
+.eko-point-sec-tbl table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  box-shadow: 0px 0px 11px 0px rgba(199, 199, 199, 1);
+  background-color: #ffffff;
+}
+
+.eko-point-sec p {
+  color: #000000;
+  font-size: 18px;
+}
+
+.eko-point-sec-tbl td,
+th {
+  border: 1px solid #86af48;
+  text-align: center;
+  color: #86af48;
+  font-size: 16px;
+}
+
+.eko-point-sec-tbl th {
+  padding: 16px 8px;
+}
+
+.eko-point-sec-tbl td {
+  color: #080808 !important;
+  font-style: italic;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 10px 8px;
+}
+
+.eko-point-head h1 {
+  font-weight: 600;
+  font-size: 44px;
+}
+
+.text-green {
+  color: #86af48 !important;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.annual-avg {
+  font-weight: 500;
+  font-size: 20px !important;
+  color: #86af48 !important;
+  font-style: italic;
+}
+
+.annual-avg-p {
+  font-weight: 500;
+  margin-bottom: 0.2rem;
+}
+
+.here-exp {
+  font-weight: 600;
+  font-size: 28px !important;
+  line-height: 2.3rem;
+  margin-bottom: 0.5rem;
+}
+
+.here-exp-p2 {
+  margin-bottom: 0;
+}
+
+.here-exp-sec {
+  position: absolute;
+  bottom: 0;
+}
+
+.supp-the-ann p {
+  font-weight: 600;
+  font-size: 22px !important;
+}
+
+.ekopoint-left-img {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 2rem;
+  margin-bottom: 20px;
+}
+
+.ekopoint-right-img {
+  display: flex;
+  margin-left: 4rem;
+  margin-bottom: 20px;
+}
+
+.ekopoint-left-img img,
+.ekopoint-right-img img {
+  height: 80px;
+}
+.ekopointheader1_ing {
+  width: 100%;
+  height: 400px;
+}
+.ekopointheader1_img {
+  width: 100%;
+  height: auto;
+}
+.heading_green {
+  font-size: 60px;
+}
+.headingp {
+  margin: 0 0 26px 0;
+  font-size: 18px;
+}
+.eko-point-head .h1_font {
+  font-size: 48px;
+}
+
+.eko-point-sec {
+  background-color: #f4f5f7;
+  border-top: solid 1px #86af48;
+  padding-bottom: 1px;
+}
+
+@media screen and (min-width: 360px) and (max-width: 576px) {
+  .ekopointheader1_ing {
+    height: 100%;
+    margin-bottom: 15px;
+  }
+  .eko-point-head h1 {
+    font-size: 32px;
+  }
+  .eko-point-head .h1_font {
+    font-size: 30px;
+  }
+  .eko-point-sec-head .my-5 {
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+  }
+  .eko-point-sec .eko-point-head {
+    margin: 1.5rem 0 !important;
+  }
+  .headingp {
+    font-size: 16px;
+    text-align: justify;
+  }
+  .here-exp-sec {
+    position: inherit;
+  }
+  .here-exp {
+    font-size: 23px !important;
+    text-align: center;
+    margin-top: 5px;
+  }
+  .ekopoint-left-img {
+    justify-content: center;
+  }
+  .ekopoint-right-img {
+    justify-content: center;
+    margin-left: 0;
+  }
+  .eko-point-sec p {
+    font-size: 14px;
+    text-align: justify;
+  }
+  .text-green {
+    font-size: 27px;
+  }
+  .eko-point-head .h1_font {
+    font-size: 24px !important;
+    text-align: start;
+  }
+  .eko-point-sec-2 .annual-avg {
+    text-align: inherit;
+  }
+  .here-exp {
+    margin-top: 30px;
+  }
+  .eko-point-sec-4 {
+    margin-top: 2rem !important;
+  }
+  .text-green-bottom-sec {
+    font-size: 20px;
+  }
+  .eko-point-sec-reduction .headingp,
+  .eko-point-sec p {
+    line-height: 29px;
+  }
+  .eko-point-sec-main {
+    padding-right: 24px !important;
+  }
+  .eko-point-sec-main2 {
+    padding-right: 32px !important;
+  }
+  .eko-point-sec-main3 {
+    padding-right: 8px !important;
+  }
+}

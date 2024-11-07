@@ -1,0 +1,1132 @@
+.landing-header {
+  padding: 40px 140px;
+  background: #f4f4f4;
+}
+.landing-header h2 {
+  text-transform: uppercase;
+}
+.page-content {
+  padding: 40px 250px;
+  font-size: 18px;
+  text-align: justify;
+}
+.read-pagination {
+  text-align: center;
+}
+.faq-page-content {
+  padding: 40px 130px;
+  font-size: 18px;
+}
+.faqs-collapse .ant-collapse-item .ant-collapse-header {
+  color: #88ae47 !important;
+}
+.ct_text_p_child_left p {
+  text-align: start;
+}
+.indivi_about_us_content {
+  padding: 75px 0 0 0;
+}
+.indivi_about_us .text_bold {
+  font-size: 32px;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: system-ui;
+}
+.indivi_about_us .text_bold .normal {
+  font-weight: normal;
+}
+.indivi_about_us img {
+  width: 100%;
+}
+.about_mission_vision_bgc {
+  background-color: #fafafa;
+  /* padding: 60px 130px; */
+}
+.indivi_about_us_data {
+  height: 110px;
+  overflow: auto;
+}
+.mission_Vision_content {
+  height: 210px;
+  overflow: auto;
+}
+.indivi_about_us_data::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  background-color: #f5f5f5;
+}
+
+.indivi_about_us_data::-webkit-scrollbar {
+  width: 12px;
+  background-color: #f5f5f5;
+}
+
+.indivi_about_us_data::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: #e0e0e0;
+}
+.mission_Vision_content::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  background-color: #f5f5f5;
+}
+
+.mission_Vision_content::-webkit-scrollbar {
+  width: 12px;
+  background-color: #f5f5f5;
+}
+
+.mission_Vision_content::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: #e0e0e0;
+}
+.about-us-our-miss-img img {
+  height: 250px;
+}
+
+.about-us-our-vis-img img {
+  height: 285px;
+}
+
+.indivi_about_us_mission_vision .mission_vision_normal {
+  font-weight: normal;
+  font-size: 32px;
+  text-transform: uppercase;
+}
+.indivi_about_us_mission_vision .mission_vision_bold {
+  font-weight: 900;
+  font-family: system-ui;
+}
+
+.text_bold {
+  font-weight: 900;
+  font-family: system-ui;
+}
+
+.page-content-redeem {
+  padding: 40px 250px;
+  font-size: 18px;
+}
+.page-content-redeem img {
+  width: 100%;
+}
+.redeemgift_content {
+  padding-top: 50px;
+}
+.redeemgift_content label {
+  font-weight: 900;
+  padding-bottom: 25px;
+}
+.redeemgift_content-ns label {
+  padding-bottom: 5px !important;
+}
+.redeemgift_content h3 {
+  font-size: 30px;
+  color: #88ae47;
+  font-weight: 600;
+}
+.redeemgift_content p {
+  color: #9e9e9e;
+  text-align: justify;
+}
+.rd-pd-left {
+  padding-left: 50px;
+}
+.rd-pading-tb {
+  padding: 25px 0;
+}
+.page-content-contact-us {
+  padding: 45px 140px;
+}
+.contact-card-box {
+  border: 2px solid #f0eeef;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+.contact-card-box img {
+  width: 20px;
+}
+.contact-card-box label {
+  padding-left: 10px;
+  font-size: 16px;
+  line-height: 1;
+  padding-left: 15px;
+  display: contents;
+}
+.contact-card-box label p {
+  font-size: 15px;
+  font-weight: 600;
+}
+.contact-card-box a {
+  color: black;
+}
+.contact-card-box .mail-point {
+  cursor: pointer;
+}
+.contact-card-box a:hover {
+  color: black;
+}
+.contact-form {
+  margin-top: 40px !important;
+}
+.contact-form .ant-row p {
+  font-weight: 500;
+  color: #6d6c71;
+}
+.contact-form .ant-input {
+  height: 50px;
+  border-radius: 10px;
+}
+.just-cenrte {
+  justify-content: center;
+}
+.form_textarea {
+  min-height: 160px;
+  max-height: 160px;
+}
+
+.about-us-mission-sec {
+  margin-left: 105px;
+}
+
+.about-us-vission-sec {
+  margin-left: 75px;
+}
+.about-us-vission-sec p {
+  width: 480px;
+}
+.about-us-mission-sec p {
+  width: 480px;
+}
+
+.about-mis-vis-border {
+  border-right: 2px solid #ededed;
+}
+@media screen and (min-width: 768px) and (max-width: 1000px) {
+  .page-content-contact-us {
+    padding: 45px 50px;
+  }
+  .contact-card-box {
+    margin-bottom: 15px;
+  }
+  .page-content-contact-us .ant-row {
+    flex-direction: column;
+  }
+  .page-content-contact-us .ant-col-xs-8 {
+    display: contents;
+  }
+}
+@media screen and (min-width: 425px) and (max-width: 769px) {
+  .page-content-contact-us {
+    padding: 45px 50px;
+  }
+  .contact-card-box {
+    margin-bottom: 15px;
+  }
+  .page-content-contact-us .ant-row {
+    flex-direction: column;
+  }
+  .page-content-contact-us .ant-col-xs-8 {
+    display: contents;
+  }
+  .contact-card-box label p {
+    font-size: 14px;
+  }
+}
+.about-us-sec-climate-crisis {
+  padding: 75px 0 85px 0;
+}
+
+.about-us-sec-climate-crisis .head h1 {
+  font-size: 32px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.about-us-sec-climate-crisis .head h1 span {
+  font-weight: 700;
+}
+
+.about-us-sec-climate-crisis .text p {
+  font-size: 18px;
+  text-align: center;
+  font-weight: 400;
+  color: #000;
+}
+
+.about-hate-climate-chng-sec {
+  padding: 75px 0;
+  background-color: #f5f5f5;
+}
+
+.about-hate-climate-chng-sec .head p {
+  font-weight: 600;
+  font-size: 22px;
+  margin-bottom: 15px;
+  margin-left: -5px;
+}
+
+.about-hate-climate-chng-sec .head-green {
+  color: #5b851f;
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.about-hate-climate-chng-sec .text {
+  font-weight: 400;
+  color: #333;
+  font-size: 14px;
+  margin: 0;
+}
+.about-hate-climate-chng-sec-flight {
+  padding: 75px 0;
+  background-color: #f5f5f5;
+  margin-bottom: 0px !important;
+}
+
+.about-hate-climate-chng-sec-flight .head p {
+  font-weight: 600;
+  font-size: 22px;
+  margin-bottom: 15px;
+  margin-left: -5px;
+}
+
+.about-hate-climate-chng-sec-flight .head-green {
+  color: #5b851f;
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.about-hate-climate-chng-sec-flight .text {
+  font-weight: 400;
+  color: #333;
+  font-size: 14px;
+  margin: 0;
+}
+.about-hate-climate-chng-sec_emp {
+  padding: 75px 0;
+  background-color: #f5f5f5;
+  margin-bottom: 0px;
+}
+
+.about-hate-climate-chng-sec_emp .head p {
+  font-weight: 600;
+  font-size: 22px;
+  margin-bottom: 15px;
+  margin-left: -5px;
+}
+
+.about-hate-climate-chng-sec_emp .head-green {
+  color: #5b851f;
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.about-hate-climate-chng-sec_emp .text {
+  font-weight: 400;
+  color: #333;
+  font-size: 14px;
+  margin: 0;
+}
+
+.eko-positive-sec {
+  padding: 80px 0;
+}
+
+.eko-positive-sec-img-bg {
+  background: url("../../assets/aboutUs/Mountain_windmill_Bg.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 260px;
+  position: relative;
+}
+
+.eko-positive-sec p {
+  position: absolute;
+  font-weight: 400;
+  font-size: 44px;
+  color: #575757;
+  text-align: center;
+  top: 24%;
+  left: 9%;
+}
+
+.eko-positive-sec p span {
+  color: #5b851f !important;
+  font-weight: 600;
+}
+
+.about-us-mission-vision-sec {
+  padding: 50px 0;
+  background-color: #f5f5f5;
+}
+
+.about-our-mission-sec {
+  display: flex;
+  justify-content: flex-start;
+  width: 80%;
+  margin: auto;
+  gap: 15px;
+}
+.about-our-mission-sec .head p {
+  color: #5b851f;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 42px;
+  margin-bottom: 0;
+}
+.about-our-mission-sec .border-sec {
+  padding: 10px 25px;
+}
+
+.about-our-mission-sec .border-sec hr {
+  border: solid 1px #000 !important;
+  height: 100% !important;
+  margin: 0 !important;
+}
+
+.about-our-mission-sec .text {
+  display: flex;
+  align-items: center;
+}
+
+.about-our-mission-sec .text p {
+  font-weight: 500;
+  font-size: 20px;
+  color: #000;
+  margin: 0;
+}
+
+.about-our-vision-sec {
+  display: flex;
+  justify-content: flex-end;
+  width: 80%;
+  margin: auto;
+  gap: 20px;
+}
+
+.about-our-vision-sec .head p {
+  color: #5b851f;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 42px;
+  margin-bottom: 0;
+  text-align: left;
+}
+
+.about-our-vision-sec .border-sec {
+  padding: 10px 25px;
+}
+
+.about-our-vision-sec .border-sec hr {
+  border: solid 1px #000 !important;
+  height: 100% !important;
+  margin: 0 !important;
+}
+
+.about-our-vision-sec .text {
+  display: flex;
+  align-items: center;
+}
+
+.about-our-vision-sec .text p {
+  font-weight: 500;
+  font-size: 20px;
+  color: #000;
+  text-align: right;
+  margin: 0;
+}
+
+.about-us-meet-team-sec {
+  padding: 75px 0 0 0;
+}
+
+.about-us-meet-team-sec .head p {
+  text-align: center;
+  color: #5b851f !important;
+  font-weight: 600;
+  font-size: 28px;
+  margin-bottom: 40px;
+}
+
+.about-us-meet-team-sec .img-sec {
+  background-color: #ebebeb;
+  height: 100%;
+}
+
+.about-us-meet-team-sec .img-sec img {
+  padding: 25px;
+  width: 100%;
+  height: 460px;
+}
+
+.about-us-meet-team-sec .text-sec {
+  background-color: #fafafa;
+  height: 100%;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.about-us-meet-team-sec .text-sec .head {
+  font-weight: 600;
+  font-size: 22px;
+  margin: 0;
+}
+
+.about-us-meet-team-sec .text-sec .text1 {
+  font-size: 16px;
+  color: #000;
+  line-height: 32px;
+  text-align: justify;
+}
+
+.about-us-meet-team-sec .text-sec .text2 {
+  font-size: 16px;
+  color: #5b851f;
+  /* font-weight: 600; */
+  font-style: italic;
+  text-align: justify;
+}
+
+.about-us-meet-team-sec .text-sec .team_p-t {
+  font-size: 16px;
+  color: #5b851f;
+  /* font-weight: 600; */
+  text-align: justify;
+  font-style: italic;
+  padding-top: 40px;
+}
+
+.about-us-meet-team-sec-box {
+  box-shadow: 0px 3px 8px 1px rgba(186, 186, 186, 1);
+}
+
+.about-us-sec-climate-crisis-img img {
+  width: 100%;
+}
+
+.about-hate-climate-chng-sec-img img {
+  width: 100%;
+}
+
+/* .about-hate-climate-chng-text-sec{
+  display: flex;
+} */
+
+.about-bottom-img-sec {
+  background: url("https://minio.b120578.dev.eastus.az.svc.builder.cafe/sbucket/variants/cing3o7a0t6w0tt0abcnentc25yo/6f7daa6c86a9bc2c53f5d0684447f253adfa8f13401d95f9d66464245ed9ff2e?response-content-disposition=inline%3B%20filename%3D%22PlasticBag%20Man_AboutUs.jpg%22%3B%20filename%2A%3DUTF-8%27%27PlasticBag%2520Man_AboutUs.jpg&response-content-type=image%2Fjpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 245px;
+}
+
+.about-bottom-img-sec2 {
+  background: url("https://minio.b120578.dev.eastus.az.svc.builder.cafe/sbucket/variants/vn9pkryil5v095hb1s3xl1l3av59/6f7daa6c86a9bc2c53f5d0684447f253adfa8f13401d95f9d66464245ed9ff2e?response-content-disposition=inline%3B%20filename%3D%22OceanTurtle_AboutUs.jpg%22%3B%20filename%2A%3DUTF-8%27%27OceanTurtle_AboutUs.jpg&response-content-type=image%2Fjpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 245px;
+}
+
+.about-us-abstract-sec {
+  margin: 75px 0;
+}
+
+.about-bottom-img-sec p,
+.about-bottom-img-sec2 p {
+  margin-bottom: 0;
+  color: #ffffff;
+}
+
+.about-bottom-img-sec-overlay,
+.about-bottom-img-sec2-overlay {
+  background-color: #00000061;
+  padding-left: 50px;
+  min-height: 400px;
+  padding-top: 10rem;
+}
+
+.about-bottom-img-sec-btn button {
+  background-color: #ffffff;
+  color: #87ac44;
+  border: none;
+  height: 36px;
+  padding: 0px 25px;
+  font-weight: 500;
+}
+
+.about-bottom-img-sec-overlay .head,
+.about-bottom-img-sec2 .head {
+  font-weight: 600;
+  font-size: 30px;
+}
+.about-bottom-img-sec-overlay .text,
+.about-bottom-img-sec2 .text {
+  font-weight: 400;
+  font-size: 14px;
+  padding: 12px 0;
+}
+.about-bottom-img-sec-social {
+  display: flex;
+  align-items: center;
+}
+.about-bottom-img-sec-social-linked img {
+  width: 27px;
+  margin-left: 12px;
+}
+@media only screen and (max-width: 1400px) {
+  .about-our-mission-sec .text p {
+    font-weight: 500;
+    font-size: 18px;
+    color: #000;
+    margin: 0;
+  }
+  .about-our-vision-sec .text p {
+    font-weight: 500;
+    font-size: 18px;
+    color: #000;
+    text-align: right;
+    margin: 0;
+  }
+  .about-our-vision-sec .border-sec {
+    padding: 10px 25px;
+    /* margin-left: 55px; */
+  }
+  .about-our-mission-sec .border-sec {
+    padding: 10px 25px;
+    /* margin-right: 55px; */
+  }
+  .eko-positive-sec p {
+    color: #575757;
+  }
+  .about-us-meet-team-sec .text-sec .text1 {
+    font-size: 16px;
+  }
+  .about-us-meet-team-sec .text-sec .team_p-t {
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+  .about-us-meet-team-sec .text-sec .text2 {
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1366px) {
+  .about-hate-climate-chng-sec .text {
+    font-size: 14px !important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .about-us-sec-climate-crisis .head h1 {
+    font-size: 22px;
+    font-weight: 400;
+    text-align: center;
+  }
+  .about-hate-climate-chng-sec .head p {
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+  }
+  .about-hate-climate-chng-sec .head-green {
+    color: #5b851f;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  .eko-positive-sec-img-bg {
+    min-height: 92px;
+  }
+  .eko-positive-sec p {
+    position: absolute;
+    font-weight: 400;
+    font-size: 18px;
+    color: #575757;
+    text-align: center;
+    top: 6%;
+    left: 0%;
+  }
+  .border-sec {
+    display: none;
+  }
+  .about-our-mission-sec {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    margin: auto;
+    grid-gap: 15px;
+    gap: 15px;
+    flex-direction: column;
+  }
+  .about-our-mission-sec .head p {
+    color: #5b851f;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 32px;
+    margin-bottom: 0;
+  }
+  .about-our-vision-sec {
+    display: flex;
+    width: 100%;
+    margin: auto;
+    grid-gap: 20px;
+    gap: 20px;
+    flex-direction: column-reverse;
+  }
+  .about-our-vision-sec .text p {
+    font-weight: 500;
+    font-size: 18px;
+    color: #000;
+    text-align: left;
+    margin: 0;
+  }
+  .about-our-vision-sec .head p {
+    color: #5b851f;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 32px;
+    margin-bottom: 0;
+    text-align: left;
+  }
+
+  .about-full-width {
+    min-width: 100%;
+    margin-bottom: 20px;
+  }
+  .head-spacing {
+    margin-top: 20px;
+  }
+  .about-hate-climate-chng-sec-img img {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .about-bottom-img-sec-overlay,
+  .about-bottom-img-sec2-overlay {
+    padding-left: 30px;
+    padding-top: 5rem;
+    min-height: 335px;
+  }
+  .about-us-sec-climate-crisis {
+    padding: 45px 0 45px 0;
+  }
+  .about-hate-climate-chng-sec {
+    padding: 50px 0;
+  }
+  .eko-positive-sec {
+    padding: 50px 0;
+  }
+  .about-us-meet-team-sec {
+    padding: 50px 0 0 0;
+  }
+  .page-content {
+    padding: 40px 35px;
+  }
+}
+@media screen and (min-width: 360px) and (max-width: 576px) {
+  .about-hate-climate-chng-text-second-desc {
+    margin-top: 103px !important;
+  }
+  .about-hate-climate-chng-text-second-flight {
+    margin-bottom: 0px !important;
+  }
+
+  .page-content-contact-us {
+    padding: 45px 50px;
+  }
+  .contact-card-box {
+    margin-bottom: 15px;
+  }
+  .page-content-contact-us .ant-row {
+    flex-direction: column;
+  }
+  .page-content-contact-us .ant-col-xs-8 {
+    display: contents;
+  }
+  .contact-card-box label p {
+    font-size: 14px;
+  }
+  .faq-page-content {
+    padding: 25px 25px;
+  }
+  .landing-header {
+    padding: 30px 60px;
+    text-align: center;
+  }
+  .page-content-redeem {
+    padding: 10px 25px;
+    font-size: 16px;
+  }
+  .rd-pd-left {
+    padding-left: 10px;
+  }
+  .redeemgift_content {
+    padding-top: 10px;
+  }
+  .redeemgift_content h3 {
+    font-size: 24px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .about-us-sec-climate-crisis .head h1 {
+    margin-bottom: 16px;
+    text-align: start !important;
+    text-transform: uppercase;
+    font-weight: 500 !important;
+  }
+  .about-us-sec-climate-crisis-img img {
+    height: 129px;
+    border-radius: 8px;
+  }
+  .about-us-sec-climate-crisis-img {
+    margin-bottom: 16px !important;
+    margin-top: 16px !important;
+  }
+  .about-us-sec-climate-crisis .text {
+    margin-top: 0px !important;
+  }
+  .about-us-sec-climate-crisis .text p {
+    text-align: start !important;
+    color: #808080 !important;
+    margin-bottom: 32px;
+    font-size: 14px !important;
+    line-height: 21px;
+  }
+  .about-us-climate-change-sec {
+    display: block !important;
+  }
+  .about-hate-climate-chng-sec-img img {
+    height: 129px;
+    position: relative;
+    top: 142px;
+    border-radius: 8px;
+  }
+  .about-us-sec-climate-crisis {
+    padding: 24px 0 0 0 !important;
+  }
+  .about-hate-climate-chng-sec {
+    margin-bottom: 20px !important;
+    padding: 0px !important;
+    background-color: inherit !important;
+  }
+  .about-hate-climate-chng-text-sec {
+    margin-top: -157px;
+  }
+  .about-hate-climate-chng-sec .head p {
+    text-align: start !important;
+    font-weight: 500 !important;
+    text-transform: uppercase;
+    margin-bottom: 8px !important;
+    line-height: 150%;
+  }
+  .about-hate-climate-chng-sec .head-green {
+    color: #000000 !important;
+    font-weight: 700 Im !important;
+    margin-bottom: 16px !important;
+    text-transform: uppercase;
+  }
+  .about-hate-climate-chng-sec .head-green-text {
+    margin-bottom: 5px;
+  }
+  .about-hate-climate-chng-sec .text {
+    color: #808080 !important;
+    line-height: 21px;
+    font-weight: 400 !important;
+    margin-top: 157px !important;
+  }
+  .about-hate-climate-chng-second .pText {
+    color: #808080 !important;
+    line-height: 21px;
+    font-weight: 400 !important;
+  }
+  .eko-positive-sec-img-bg {
+    background-size: contain !important;
+  }
+  .eko-positive-sec {
+    padding: 50px 0;
+    border: 1px solid #dfdfdf;
+    margin: 32px 20px;
+    border-radius: 8px;
+    padding: 33px 0 24px !important;
+  }
+  .eko-positive-sec p {
+    top: 0% !important;
+  }
+  .about-us-mission-vision-sec {
+    background-color: inherit !important;
+    padding: 0px !important;
+  }
+  .about-our-mission-sec {
+    background-color: #fafafa;
+    border-radius: 8px;
+    padding: 12px 16px 15px;
+    gap: 9px !important;
+  }
+  .about-our-vision-sec {
+    background-color: #fafafa;
+    border-radius: 8px;
+    padding: 12px 16px 15px;
+    gap: 9px !important;
+    margin-top: 16px !important;
+  }
+  .about-our-mission-sec .head p,
+  .about-our-vision-sec .head p {
+    color: #9dbd4f !important;
+  }
+  .about-our-vision-sec .text p {
+    color: #808080 !important;
+    font-size: 16px !important;
+  }
+  .about-our-mission-sec .text p {
+    color: #808080 !important;
+    font-size: 16px !important;
+  }
+  .head-spacing {
+    margin-top: 0px !important;
+  }
+  .about-us-sec-header-text {
+    display: flex;
+    flex-direction: column;
+  }
+  .about-us-sec-climate-crisis .head h1 span {
+    line-height: 150%;
+    color: #000000;
+    margin-bottom: 8px;
+  }
+  .image-heder-sec-active {
+    border: #88ae47;
+    border-radius: 15px;
+  }
+  .image-header {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 7px;
+  }
+  .image-header-sec img {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    height: 200px !important;
+    width: 160px;
+  }
+  .image-header-sec {
+    position: relative;
+    width: 138px;
+    height: 135px;
+    overflow: hidden;
+    border-radius: 20px;
+  }
+  .image-header-sec-active {
+    position: relative;
+    width: 138px;
+    height: 135px;
+    overflow: hidden;
+    border-radius: 20px;
+    background-image: contain;
+    border: 3px solid #88ae47;
+  }
+  .image-header-sec-active img {
+    position: relative;
+    width: 156px;
+    height: 200px !important;
+    bottom: 33px;
+    right: 0px;
+  }
+  p.image-header-sec-head {
+    color: #88ae47 !important;
+  }
+  .about-us-meet-team-sec-box {
+    box-shadow: none !important;
+  }
+  .about-us-meet-team-sec .text-sec {
+    background-color: inherit !important;
+    position: relative;
+    padding: 0;
+  }
+  .about-us-meet-team-sec .text-sec .team_p-t,
+  .about-us-meet-team-sec .text-sec .text2 {
+    color: #88ae47;
+    padding-top: 0;
+    font-style: inherit;
+  }
+
+  .about-us-meet-team-sec .text-sec .text-sec-text1 {
+    display: grid;
+    grid-gap: 20px;
+    line-height: 27px;
+    margin-top: 322px !important;
+  }
+  .about-us-meet-team-sec .text-sec .text-sec-text2 {
+    display: grid;
+    grid-gap: 20px;
+    line-height: 27px;
+    margin-top: 347px !important;
+  }
+  .about-us-sec-text {
+    background-color: #d9d9d9;
+    padding: 13px 18px;
+    border-radius: 8px;
+    position: absolute !important;
+  }
+  .about-us-sec-polygon1 {
+    position: absolute;
+    top: -18px;
+    left: 32px;
+    width: 0;
+    height: 0;
+    border-left: 18px solid transparent;
+    border-right: 18px solid transparent;
+    border-bottom: 18px solid #d9d9d9;
+  }
+  .about-us-sec-polygon2 {
+    position: absolute;
+    top: -18px;
+    right: 74px;
+    width: 0;
+    height: 0;
+    border-left: 18px solid transparent;
+    border-right: 18px solid transparent;
+    border-bottom: 18px solid #d9d9d9;
+  }
+  .about-us-meet-team-sec .container {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  .about-us-meet-team-sec {
+    padding: 32px 0 0 0;
+  }
+  .about-us-meet-team-sec .head p {
+    color: #000000 !important;
+    font-weight: 700;
+    font-size: 23px;
+    text-align: start;
+    text-transform: uppercase;
+    margin-bottom: 22px;
+  }
+  .about-us-abstract-sec {
+    margin: 21px 0 !important;
+  }
+  .about-bottom-img-sec-overlay .head,
+  .about-bottom-img-sec2 .head {
+    font-size: 16px;
+  }
+  .about-bottom-img-sec-overlay .text,
+  .about-bottom-img-sec2 .text {
+    font-size: 12px;
+  }
+  .page-content-contact-us {
+    padding: 45px 50px;
+  }
+  .contact-card-box {
+    margin-bottom: 15px;
+  }
+  .page-content-contact-us .ant-row {
+    flex-direction: column;
+  }
+  .page-content-contact-us .ant-col-xs-8 {
+    display: contents;
+  }
+  .contact-card-box label p {
+    font-size: 14px;
+  }
+  .faq-page-content {
+    padding: 25px 25px;
+  }
+  .landing-header {
+    padding: 30px 60px;
+    text-align: center;
+  }
+  .page-content-redeem {
+    padding: 10px 25px;
+    font-size: 16px;
+  }
+  .rd-pd-left {
+    padding-left: 10px;
+  }
+  .redeemgift_content {
+    padding-top: 10px;
+  }
+  .redeemgift_content h3 {
+    font-size: 21px;
+  }
+  .rd-pading-tb {
+    padding: 25px 0 0 0;
+  }
+  .redeemgift_content {
+    padding-top: 0px;
+  }
+  .redeemgift_content label {
+    font-weight: 700;
+    font-size: 20px;
+    padding-bottom: 14px;
+  }
+  .landing-header {
+    padding: 17px 45px;
+  }
+  .page-content-redeem-sec {
+    padding-right: 8px !important;
+  }
+  .redeemgift-content-block {
+    display: flex;
+    gap: 17px;
+  }
+  .redeemgift-content-block h3 {
+    width: 70%;
+  }
+  .about-us-climate-main-sec {
+    padding-right: 8px !important;
+    padding-left: 8px !important;
+  }
+}
+@media screen and (min-width: 577px) {
+  .about-us-sec-climate-crisis .text p,
+  .about-hate-climate-chng-sec .text,
+  .about-hate-climate-chng-sec .head p,
+  .about-our-mission-sec .head p,
+  .about-our-vision-sec .head p {
+    display: flex;
+    flex-direction: column;
+  }
+  .redeemgift-content-section {
+    display: flex;
+    flex-direction: row;
+  }
+  .redeemgift_content h3 {
+    display: flex;
+    flex-direction: column;
+  }
+  .redeemgift_content label {
+    font-weight: 600;
+    font-size: 30px;
+    padding-bottom: 25px;
+  }
+  .redeemgift-content-block {
+    display: flex;
+    gap: 25px;
+  }
+  .redeemgift_content-step2 label {
+    width: 30%;
+  }
+  .redeemgift_content-step2-ns label {
+    width: 100% !important;
+  }
+  .redeemgift-content-block h3 {
+    margin-top: 3px;
+  }
+  .redeemgift-content-block-ns {
+    flex-direction: column !important;
+    gap: 2px !important;
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "Calculator3",
+  "version": "0.0.1",
+  "status": "preAlpha",
+  "path": "./packages/blocks/Calculator3",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "Calculator3"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "Calculator3": {
+        "file": "Calculator3.tsx",
+        "extends": "Calculator3Controller",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "Calculator3Controller",
+            "path": "./Calculator3Controller"
+          },
+          {
+            "value": "{Props}",
+            "path": "./Calculator3Controller"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "Calculator3"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "Calculator3": {
+        "file": "Calculator3.web.tsx",
+        "extends": "Calculator3Controller",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "Calculator3Controller",
+            "path": "./Calculator3Controller"
+          },
+          {
+            "value": "{Props}",
+            "path": "./Calculator3Controller"
+          }
+        ]
+      }
+    }
+  }
+}

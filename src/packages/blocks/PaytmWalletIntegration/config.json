@@ -1,0 +1,65 @@
+{
+  "id": "PaytmWalletIntegration",
+  "version": "0.0.1",
+  "status": "preAlpha",
+  "path": "./packages/blocks/PaytmWalletIntegration",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "PaytmWalletIntegration"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "PaytmWalletIntegration": {
+        "file": "PaytmWalletIntegration.tsx",
+        "extends": "PaytmWalletIntegrationController",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "PaytmWalletIntegrationController",
+            "path": "./PaytmWalletIntegrationController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./PaytmWalletIntegrationController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "PaytmWalletIntegration"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "PaytmWalletIntegration": {
+        "file": "PaytmWalletIntegration.web.tsx",
+        "extends": "PaytmWalletIntegrationController",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "PaytmWalletIntegrationController",
+            "path": "./PaytmWalletIntegrationController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./PaytmWalletIntegrationController"
+          }
+        ]
+      }
+    }
+  }
+}

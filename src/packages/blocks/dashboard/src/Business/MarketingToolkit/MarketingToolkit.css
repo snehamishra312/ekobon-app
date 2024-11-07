@@ -1,0 +1,213 @@
+.business_Project_MiddleContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 29px;
+}
+.business_toolkit_block1 {
+  box-shadow: 0px 0px 16px -3px rgb(0 0 0 / 51%);
+  border-radius: 18px;
+}
+.business_toolkit_block1 h2 {
+  font-size: 22px;
+  font-weight: 800;
+}
+.business_toolkit_block1 .first_Project_block_P {
+  font-family: "Roboto-Bold";
+  color: #acacac;
+  font-size: 15px;
+}
+.toolkit_switch span {
+  padding-left: 10px;
+}
+.toolkit_switch .ant-switch {
+  height: 25px;
+}
+.toolkit_switch .ant-switch-handle {
+  width: 21px;
+  height: 21px;
+}
+.toolkit_switch .ant-switch-checked {
+  background: #699ea2;
+}
+.toolkit_switch .ant-switch-checked .ant-switch-handle {
+  left: calc(100% - 18px - 5px);
+}
+.enable-content {
+  opacity: 0.3;
+  pointer-events: none;
+}
+.marketing-toolkit-enable-content {
+  margin-top: 20px;
+}
+.business_toolkit_enable-content {
+  border-radius: 18px;
+  background-color: #f3f3f3;
+  border: 1px solid #f3f3f3;
+}
+.toolkit-left-content {
+  padding: 0 15px;
+}
+.toolkit-left-content h2 {
+  font-size: 24px;
+  font-weight: 900;
+}
+.toolkit-left-content p {
+  font-size: 16px;
+  color: #97989c;
+  font-weight: 600;
+}
+.margin-b-5 {
+  margin-bottom: 5px;
+}
+.mt-30 {
+  margin-top: 30px;
+}
+.toolkit-right-content .ant-card-bordered {
+  border-radius: 8px;
+  border: 1px solid #97989c;
+  background-color: #f3f3f3;
+}
+.preview-content .ant-card-bordered {
+  border: none;
+  border-radius: 12px;
+}
+/* .preview-content .ant-card-body {
+  padding: 15px 20px;
+} */
+.embed_content .ant-input {
+  border: none;
+}
+.preview-card-padding label {
+  font-size: 30px;
+  font-weight: 800;
+}
+.text_black {
+  color: #000000 !important;
+}
+.text_white {
+  color: #ffff !important;
+}
+.preview-card-padding span {
+  font-size: 20px;
+  display: block;
+  margin-top: -10px;
+}
+.preview-card-padding {
+  display: flex;
+  justify-content: space-between;
+}
+.preview-card-padding img {
+  width: 32px;
+  height: 32px;
+  margin: -60px 15px 0px 0px;
+}
+.preview-card-padding .card-impact {
+  padding-top: 15px;
+  font-size: 15px;
+}
+.embed_content .ant-card-bordered {
+  background: #fff;
+  border: 1px solid #97989c;
+  border-radius: 12px;
+}
+.preview-content p {
+  font-size: 16px;
+  color: #97989c;
+  font-weight: 600;
+  margin: 0;
+  padding-bottom: 15px;
+}
+.preview-content .ant-card-body {
+  padding: 15px 18px 12px 18px;
+}
+.copy_code {
+  color: #88ae47 !important;
+  cursor: pointer;
+}
+.embed-text-code-copy {
+  display: flex;
+  justify-content: space-between;
+}
+.embed_content {
+  padding-top: 40px;
+}
+.impact_green {
+  background: #88ae47 !important;
+}
+.impact_blue {
+  background: #8cbdc2 !important;
+}
+.impact_white {
+  background: #fff !important;
+}
+.marketing-impact-content {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+  margin: 50px 50px;
+  left: 50%;
+}
+.marketing-impact-content .ant-card-bordered {
+  border-radius: 8px;
+  border: 1px solid #97989c;
+  background-color: #f3f3f3;
+}
+.marketing-impact-content .ant-card-body {
+  padding: 24px;
+  width: 530px;
+}
+@media screen and (min-width: 370px) and (max-width: 670px) {
+  .preview-card-padding img {
+    width: 26px;
+    height: 26px;
+    margin: 0px 15px 10px 0px;
+  }
+  .preview-card-padding label {
+    font-size: 16px;
+  }
+  .preview-card-padding span {
+    font-size: 16px;
+  }
+  .preview-card-padding .card-impact {
+    padding-top: 22px;
+    font-size: 12px;
+  }
+  .toolkit-left-content h2 {
+    font-size: 22px;
+  } 
+  .toolkit-left-content p {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 360px) and (max-width: 576px) {
+  .preview-card-padding img {
+    width: 26px;
+    height: 26px;
+    margin: 0px 15px 10px 0px;
+  }
+  .preview-card-padding label {
+    font-size: 16px;
+  }
+  .preview-card-padding span {
+    font-size: 16px;
+  }
+  .preview-card-padding .card-impact {
+    padding-top: 22px;
+    font-size: 12px;
+  }
+  .toolkit-left-content h2 {
+    font-size: 22px;
+  } 
+  .toolkit-left-content p {
+    font-size: 14px;
+    text-align: justify;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+  .preview-card-padding img {
+    width: 32px;
+    height: 32px;
+    margin: 0px 15px 10px 0px;
+  }
+}

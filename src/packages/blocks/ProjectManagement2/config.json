@@ -1,0 +1,65 @@
+{
+  "id": "ProjectManagement2",
+  "version": "0.0.1",
+  "status": "preAlpha",
+  "path": "./packages/blocks/ProjectManagement2",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "ProjectManagement2"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "ProjectManagement2": {
+        "file": "ProjectManagement2.tsx",
+        "extends": "ProjectManagement2Controller",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "ProjectManagement2Controller",
+            "path": "./ProjectManagement2Controller"
+          },
+          {
+            "value": "{Props}",
+            "path": "./ProjectManagement2Controller"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "ProjectManagement2"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "ProjectManagement2": {
+        "file": "ProjectManagement2.web.tsx",
+        "extends": "ProjectManagement2Controller",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "ProjectManagement2Controller",
+            "path": "./ProjectManagement2Controller"
+          },
+          {
+            "value": "{Props}",
+            "path": "./ProjectManagement2Controller"
+          }
+        ]
+      }
+    }
+  }
+}
